@@ -1,0 +1,1397 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<korsakow version="6.0.4">
+    <projects>
+        <Project>
+            <id><![CDATA[34]]></id>
+            <version><![CDATA[2]]></version>
+            <name><![CDATA[Untitled Project]]></name>
+            <settingsId><![CDATA[1]]></settingsId>
+            <movieWidth><![CDATA[1024]]></movieWidth>
+            <movieHeight><![CDATA[768]]></movieHeight>
+            <backgroundSoundVolume><![CDATA[1.0]]></backgroundSoundVolume>
+            <backgroundSoundLooping><![CDATA[true]]></backgroundSoundLooping>
+            <clickSoundVolume><![CDATA[1.0]]></clickSoundVolume>
+            <backgroundColor><![CDATA[#000000ff]]></backgroundColor>
+            <randomLinkMode><![CDATA[false]]></randomLinkMode>
+            <keepLinksOnEmptySearch><![CDATA[false]]></keepLinksOnEmptySearch>
+            <defaultInterface><![CDATA[11]]></defaultInterface>
+            <uuid><![CDATA[1ba6140a-5fc3-4197-a253-5c1b35e95b31]]></uuid>
+        </Project>
+    </projects>
+    <settings>
+        <Settings>
+            <id><![CDATA[1]]></id>
+            <version><![CDATA[2]]></version>
+            <exportWebFiles dynamic="true"><![CDATA[true]]></exportWebFiles>
+            <adjustFilenamesOnSave dynamic="true"><![CDATA[smart]]></adjustFilenamesOnSave>
+            <putSimilarResourcesAtTop dynamic="true"><![CDATA[true]]></putSimilarResourcesAtTop>
+            <exportImages dynamic="true"><![CDATA[true]]></exportImages>
+            <showBackgroundPreviewInInterface dynamic="true"><![CDATA[true]]></showBackgroundPreviewInInterface>
+            <exportSounds dynamic="true"><![CDATA[true]]></exportSounds>
+            <exportSubtitles dynamic="true"><![CDATA[true]]></exportSubtitles>
+            <exportVideos dynamic="true"><![CDATA[true]]></exportVideos>
+            <exportDirectory dynamic="true"><![CDATA[/Users/Christine/Desktop/index.html]]></exportDirectory>
+        </Settings>
+    </settings>
+    <interfaces>
+        <Interface>
+            <id><![CDATA[11]]></id>
+            <version><![CDATA[2]]></version>
+            <name><![CDATA[3-LINK_LinksOnTop]]></name>
+            <gridWidth><![CDATA[341]]></gridWidth>
+            <gridHeight><![CDATA[192]]></gridHeight>
+            <clickSoundVolume><![CDATA[1.0]]></clickSoundVolume>
+            <widgets>
+                <Widget>
+                    <id><![CDATA[2]]></id>
+                    <version><![CDATA[2]]></version>
+                    <widgetType><![CDATA[org.korsakow.widget.MainMedia]]></widgetType>
+                    <x><![CDATA[0]]></x>
+                    <y><![CDATA[0]]></y>
+                    <width><![CDATA[1024]]></width>
+                    <height><![CDATA[576]]></height>
+                    <scalingPolicy dynamic="true"><![CDATA[fill]]></scalingPolicy>
+                </Widget>
+                <Widget>
+                    <id><![CDATA[3]]></id>
+                    <version><![CDATA[2]]></version>
+                    <widgetType><![CDATA[org.korsakow.widget.Preview]]></widgetType>
+                    <x><![CDATA[682]]></x>
+                    <y><![CDATA[0]]></y>
+                    <width><![CDATA[341]]></width>
+                    <height><![CDATA[192]]></height>
+                    <scalingPolicy dynamic="true"><![CDATA[fill]]></scalingPolicy>
+                    <previewTextMode dynamic="true"><![CDATA[always]]></previewTextMode>
+                    <index dynamic="true"><![CDATA[0]]></index>
+                    <previewOverlayColor dynamic="true"><![CDATA[#ff00313f]]></previewOverlayColor>
+                    <textDecoration dynamic="true"><![CDATA[none]]></textDecoration>
+                    <fontStyle dynamic="true"><![CDATA[normal]]></fontStyle>
+                    <horizontalTextAlignment dynamic="true"><![CDATA[center]]></horizontalTextAlignment>
+                    <fontFamily dynamic="true"><![CDATA[Arial]]></fontFamily>
+                    <fontSize dynamic="true"><![CDATA[1.0]]></fontSize>
+                    <fontColor dynamic="true"><![CDATA[#FFFFFFFF]]></fontColor>
+                    <fontWeight dynamic="true"><![CDATA[normal]]></fontWeight>
+                    <previewTextEffect dynamic="true"><![CDATA[animate]]></previewTextEffect>
+                    <verticalTextAlignment dynamic="true"><![CDATA[middle]]></verticalTextAlignment>
+                </Widget>
+                <Widget>
+                    <id><![CDATA[4]]></id>
+                    <version><![CDATA[2]]></version>
+                    <widgetType><![CDATA[org.korsakow.widget.Preview]]></widgetType>
+                    <x><![CDATA[682]]></x>
+                    <y><![CDATA[192]]></y>
+                    <width><![CDATA[341]]></width>
+                    <height><![CDATA[192]]></height>
+                    <scalingPolicy dynamic="true"><![CDATA[fill]]></scalingPolicy>
+                    <previewTextMode dynamic="true"><![CDATA[always]]></previewTextMode>
+                    <index dynamic="true"><![CDATA[1]]></index>
+                    <previewOverlayColor dynamic="true"><![CDATA[#ff00307f]]></previewOverlayColor>
+                    <textDecoration dynamic="true"><![CDATA[none]]></textDecoration>
+                    <fontStyle dynamic="true"><![CDATA[normal]]></fontStyle>
+                    <horizontalTextAlignment dynamic="true"><![CDATA[center]]></horizontalTextAlignment>
+                    <fontFamily dynamic="true"><![CDATA[Arial]]></fontFamily>
+                    <fontSize dynamic="true"><![CDATA[1.0]]></fontSize>
+                    <fontColor dynamic="true"><![CDATA[#FFFFFFFF]]></fontColor>
+                    <fontWeight dynamic="true"><![CDATA[normal]]></fontWeight>
+                    <previewTextEffect dynamic="true"><![CDATA[animate]]></previewTextEffect>
+                    <verticalTextAlignment dynamic="true"><![CDATA[middle]]></verticalTextAlignment>
+                </Widget>
+                <Widget>
+                    <id><![CDATA[5]]></id>
+                    <version><![CDATA[2]]></version>
+                    <widgetType><![CDATA[org.korsakow.widget.Preview]]></widgetType>
+                    <x><![CDATA[682]]></x>
+                    <y><![CDATA[384]]></y>
+                    <width><![CDATA[341]]></width>
+                    <height><![CDATA[192]]></height>
+                    <scalingPolicy dynamic="true"><![CDATA[fill]]></scalingPolicy>
+                    <previewTextMode dynamic="true"><![CDATA[always]]></previewTextMode>
+                    <index dynamic="true"><![CDATA[2]]></index>
+                    <previewOverlayColor dynamic="true"><![CDATA[#ff0030ff]]></previewOverlayColor>
+                    <textDecoration dynamic="true"><![CDATA[none]]></textDecoration>
+                    <fontStyle dynamic="true"><![CDATA[normal]]></fontStyle>
+                    <horizontalTextAlignment dynamic="true"><![CDATA[center]]></horizontalTextAlignment>
+                    <fontFamily dynamic="true"><![CDATA[Arial]]></fontFamily>
+                    <fontSize dynamic="true"><![CDATA[1.0]]></fontSize>
+                    <fontColor dynamic="true"><![CDATA[#FFFFFFFF]]></fontColor>
+                    <fontWeight dynamic="true"><![CDATA[normal]]></fontWeight>
+                    <previewTextEffect dynamic="true"><![CDATA[animate]]></previewTextEffect>
+                    <verticalTextAlignment dynamic="true"><![CDATA[middle]]></verticalTextAlignment>
+                </Widget>
+                <Widget>
+                    <id><![CDATA[6]]></id>
+                    <version><![CDATA[2]]></version>
+                    <widgetType><![CDATA[org.korsakow.widget.Scrubber]]></widgetType>
+                    <x><![CDATA[0]]></x>
+                    <y><![CDATA[552]]></y>
+                    <width><![CDATA[1024]]></width>
+                    <height><![CDATA[5]]></height>
+                    <barWidth dynamic="true"><![CDATA[5]]></barWidth>
+                    <backgroundColor dynamic="true"><![CDATA[#000000ff]]></backgroundColor>
+                    <barHeight dynamic="true"><![CDATA[5]]></barHeight>
+                    <interactive dynamic="true"><![CDATA[true]]></interactive>
+                    <foregroundColor dynamic="true"><![CDATA[#ffffffff]]></foregroundColor>
+                    <loadingColor dynamic="true"><![CDATA[#ddddddff]]></loadingColor>
+                </Widget>
+                <Widget>
+                    <id><![CDATA[7]]></id>
+                    <version><![CDATA[2]]></version>
+                    <widgetType><![CDATA[org.korsakow.widget.FullscreenButton]]></widgetType>
+                    <x><![CDATA[973]]></x>
+                    <y><![CDATA[501]]></y>
+                    <width><![CDATA[32]]></width>
+                    <height><![CDATA[32]]></height>
+                </Widget>
+                <Widget>
+                    <id><![CDATA[8]]></id>
+                    <version><![CDATA[2]]></version>
+                    <widgetType><![CDATA[org.korsakow.widget.InsertText]]></widgetType>
+                    <x><![CDATA[0]]></x>
+                    <y><![CDATA[384]]></y>
+                    <width><![CDATA[0]]></width>
+                    <height><![CDATA[80]]></height>
+                    <fontFamily dynamic="true"><![CDATA[Courier]]></fontFamily>
+                    <fontSize dynamic="true"><![CDATA[1.0]]></fontSize>
+                    <textDecoration dynamic="true"><![CDATA[none]]></textDecoration>
+                    <fontStyle dynamic="true"><![CDATA[normal]]></fontStyle>
+                    <fontWeight dynamic="true"><![CDATA[normal]]></fontWeight>
+                    <fontColor dynamic="true"><![CDATA[#ffffffff]]></fontColor>
+                </Widget>
+                <Widget>
+                    <id><![CDATA[9]]></id>
+                    <version><![CDATA[2]]></version>
+                    <widgetType><![CDATA[org.korsakow.widget.InsertText]]></widgetType>
+                    <x><![CDATA[0]]></x>
+                    <y><![CDATA[384]]></y>
+                    <width><![CDATA[0]]></width>
+                    <height><![CDATA[80]]></height>
+                    <fontFamily dynamic="true"><![CDATA[Courier]]></fontFamily>
+                    <fontSize dynamic="true"><![CDATA[1.0]]></fontSize>
+                    <textDecoration dynamic="true"><![CDATA[none]]></textDecoration>
+                    <fontStyle dynamic="true"><![CDATA[normal]]></fontStyle>
+                    <fontWeight dynamic="true"><![CDATA[normal]]></fontWeight>
+                    <fontColor dynamic="true"><![CDATA[#ffffffff]]></fontColor>
+                </Widget>
+                <Widget>
+                    <id><![CDATA[10]]></id>
+                    <version><![CDATA[2]]></version>
+                    <widgetType><![CDATA[org.korsakow.widget.InsertText]]></widgetType>
+                    <x><![CDATA[10]]></x>
+                    <y><![CDATA[384]]></y>
+                    <width><![CDATA[341]]></width>
+                    <height><![CDATA[96]]></height>
+                    <fontFamily dynamic="true"><![CDATA[Courier]]></fontFamily>
+                    <fontSize dynamic="true"><![CDATA[1.0]]></fontSize>
+                    <textDecoration dynamic="true"><![CDATA[none]]></textDecoration>
+                    <fontStyle dynamic="true"><![CDATA[normal]]></fontStyle>
+                    <fontWeight dynamic="true"><![CDATA[normal]]></fontWeight>
+                    <fontColor dynamic="true"><![CDATA[#ffffffff]]></fontColor>
+                </Widget>
+            </widgets>
+        </Interface>
+        <Interface>
+            <id><![CDATA[21]]></id>
+            <version><![CDATA[1]]></version>
+            <name><![CDATA[3-LINK_LinksSeperate]]></name>
+            <gridWidth><![CDATA[341]]></gridWidth>
+            <gridHeight><![CDATA[192]]></gridHeight>
+            <clickSoundVolume><![CDATA[1.0]]></clickSoundVolume>
+            <widgets>
+                <Widget>
+                    <id><![CDATA[12]]></id>
+                    <version><![CDATA[1]]></version>
+                    <widgetType><![CDATA[org.korsakow.widget.MainMedia]]></widgetType>
+                    <x><![CDATA[0]]></x>
+                    <y><![CDATA[0]]></y>
+                    <width><![CDATA[1024]]></width>
+                    <height><![CDATA[576]]></height>
+                    <scalingPolicy dynamic="true"><![CDATA[fill]]></scalingPolicy>
+                </Widget>
+                <Widget>
+                    <id><![CDATA[13]]></id>
+                    <version><![CDATA[1]]></version>
+                    <widgetType><![CDATA[org.korsakow.widget.Preview]]></widgetType>
+                    <x><![CDATA[0]]></x>
+                    <y><![CDATA[576]]></y>
+                    <width><![CDATA[341]]></width>
+                    <height><![CDATA[192]]></height>
+                    <scalingPolicy dynamic="true"><![CDATA[fill]]></scalingPolicy>
+                    <previewTextMode dynamic="true"><![CDATA[always]]></previewTextMode>
+                    <index dynamic="true"><![CDATA[0]]></index>
+                    <previewOverlayColor dynamic="true"><![CDATA[#ff00313f]]></previewOverlayColor>
+                    <textDecoration dynamic="true"><![CDATA[none]]></textDecoration>
+                    <fontStyle dynamic="true"><![CDATA[normal]]></fontStyle>
+                    <horizontalTextAlignment dynamic="true"><![CDATA[center]]></horizontalTextAlignment>
+                    <fontFamily dynamic="true"><![CDATA[Arial]]></fontFamily>
+                    <fontSize dynamic="true"><![CDATA[1.0]]></fontSize>
+                    <fontColor dynamic="true"><![CDATA[#FFFFFFFF]]></fontColor>
+                    <fontWeight dynamic="true"><![CDATA[normal]]></fontWeight>
+                    <previewTextEffect dynamic="true"><![CDATA[animate]]></previewTextEffect>
+                    <verticalTextAlignment dynamic="true"><![CDATA[middle]]></verticalTextAlignment>
+                </Widget>
+                <Widget>
+                    <id><![CDATA[14]]></id>
+                    <version><![CDATA[1]]></version>
+                    <widgetType><![CDATA[org.korsakow.widget.Preview]]></widgetType>
+                    <x><![CDATA[341]]></x>
+                    <y><![CDATA[576]]></y>
+                    <width><![CDATA[341]]></width>
+                    <height><![CDATA[192]]></height>
+                    <scalingPolicy dynamic="true"><![CDATA[fill]]></scalingPolicy>
+                    <previewTextMode dynamic="true"><![CDATA[always]]></previewTextMode>
+                    <index dynamic="true"><![CDATA[1]]></index>
+                    <previewOverlayColor dynamic="true"><![CDATA[#ff00307f]]></previewOverlayColor>
+                    <textDecoration dynamic="true"><![CDATA[none]]></textDecoration>
+                    <fontStyle dynamic="true"><![CDATA[normal]]></fontStyle>
+                    <horizontalTextAlignment dynamic="true"><![CDATA[center]]></horizontalTextAlignment>
+                    <fontFamily dynamic="true"><![CDATA[Arial]]></fontFamily>
+                    <fontSize dynamic="true"><![CDATA[1.0]]></fontSize>
+                    <fontColor dynamic="true"><![CDATA[#FFFFFFFF]]></fontColor>
+                    <fontWeight dynamic="true"><![CDATA[normal]]></fontWeight>
+                    <previewTextEffect dynamic="true"><![CDATA[animate]]></previewTextEffect>
+                    <verticalTextAlignment dynamic="true"><![CDATA[middle]]></verticalTextAlignment>
+                </Widget>
+                <Widget>
+                    <id><![CDATA[15]]></id>
+                    <version><![CDATA[1]]></version>
+                    <widgetType><![CDATA[org.korsakow.widget.Preview]]></widgetType>
+                    <x><![CDATA[682]]></x>
+                    <y><![CDATA[576]]></y>
+                    <width><![CDATA[341]]></width>
+                    <height><![CDATA[192]]></height>
+                    <scalingPolicy dynamic="true"><![CDATA[fill]]></scalingPolicy>
+                    <previewTextMode dynamic="true"><![CDATA[always]]></previewTextMode>
+                    <index dynamic="true"><![CDATA[2]]></index>
+                    <previewOverlayColor dynamic="true"><![CDATA[#ff0030ff]]></previewOverlayColor>
+                    <textDecoration dynamic="true"><![CDATA[none]]></textDecoration>
+                    <fontStyle dynamic="true"><![CDATA[normal]]></fontStyle>
+                    <horizontalTextAlignment dynamic="true"><![CDATA[center]]></horizontalTextAlignment>
+                    <fontFamily dynamic="true"><![CDATA[Arial]]></fontFamily>
+                    <fontSize dynamic="true"><![CDATA[1.0]]></fontSize>
+                    <fontColor dynamic="true"><![CDATA[#FFFFFFFF]]></fontColor>
+                    <fontWeight dynamic="true"><![CDATA[normal]]></fontWeight>
+                    <previewTextEffect dynamic="true"><![CDATA[animate]]></previewTextEffect>
+                    <verticalTextAlignment dynamic="true"><![CDATA[middle]]></verticalTextAlignment>
+                </Widget>
+                <Widget>
+                    <id><![CDATA[16]]></id>
+                    <version><![CDATA[1]]></version>
+                    <widgetType><![CDATA[org.korsakow.widget.Scrubber]]></widgetType>
+                    <x><![CDATA[0]]></x>
+                    <y><![CDATA[552]]></y>
+                    <width><![CDATA[1024]]></width>
+                    <height><![CDATA[5]]></height>
+                    <barWidth dynamic="true"><![CDATA[5]]></barWidth>
+                    <backgroundColor dynamic="true"><![CDATA[#000000ff]]></backgroundColor>
+                    <barHeight dynamic="true"><![CDATA[5]]></barHeight>
+                    <interactive dynamic="true"><![CDATA[true]]></interactive>
+                    <foregroundColor dynamic="true"><![CDATA[#ffffffff]]></foregroundColor>
+                    <loadingColor dynamic="true"><![CDATA[#ddddddff]]></loadingColor>
+                </Widget>
+                <Widget>
+                    <id><![CDATA[17]]></id>
+                    <version><![CDATA[1]]></version>
+                    <widgetType><![CDATA[org.korsakow.widget.FullscreenButton]]></widgetType>
+                    <x><![CDATA[973]]></x>
+                    <y><![CDATA[501]]></y>
+                    <width><![CDATA[32]]></width>
+                    <height><![CDATA[32]]></height>
+                </Widget>
+                <Widget>
+                    <id><![CDATA[18]]></id>
+                    <version><![CDATA[1]]></version>
+                    <widgetType><![CDATA[org.korsakow.widget.InsertText]]></widgetType>
+                    <x><![CDATA[0]]></x>
+                    <y><![CDATA[384]]></y>
+                    <width><![CDATA[0]]></width>
+                    <height><![CDATA[80]]></height>
+                    <fontFamily dynamic="true"><![CDATA[Courier]]></fontFamily>
+                    <textDecoration dynamic="true"><![CDATA[none]]></textDecoration>
+                    <fontSize dynamic="true"><![CDATA[1.0]]></fontSize>
+                    <fontStyle dynamic="true"><![CDATA[normal]]></fontStyle>
+                    <fontWeight dynamic="true"><![CDATA[normal]]></fontWeight>
+                    <fontColor dynamic="true"><![CDATA[#ffffffff]]></fontColor>
+                </Widget>
+                <Widget>
+                    <id><![CDATA[19]]></id>
+                    <version><![CDATA[1]]></version>
+                    <widgetType><![CDATA[org.korsakow.widget.InsertText]]></widgetType>
+                    <x><![CDATA[0]]></x>
+                    <y><![CDATA[384]]></y>
+                    <width><![CDATA[0]]></width>
+                    <height><![CDATA[80]]></height>
+                    <fontFamily dynamic="true"><![CDATA[Courier]]></fontFamily>
+                    <textDecoration dynamic="true"><![CDATA[none]]></textDecoration>
+                    <fontSize dynamic="true"><![CDATA[1.0]]></fontSize>
+                    <fontStyle dynamic="true"><![CDATA[normal]]></fontStyle>
+                    <fontWeight dynamic="true"><![CDATA[normal]]></fontWeight>
+                    <fontColor dynamic="true"><![CDATA[#ffffffff]]></fontColor>
+                </Widget>
+                <Widget>
+                    <id><![CDATA[20]]></id>
+                    <version><![CDATA[1]]></version>
+                    <widgetType><![CDATA[org.korsakow.widget.InsertText]]></widgetType>
+                    <x><![CDATA[10]]></x>
+                    <y><![CDATA[384]]></y>
+                    <width><![CDATA[341]]></width>
+                    <height><![CDATA[96]]></height>
+                    <fontFamily dynamic="true"><![CDATA[Courier]]></fontFamily>
+                    <textDecoration dynamic="true"><![CDATA[none]]></textDecoration>
+                    <fontSize dynamic="true"><![CDATA[1.0]]></fontSize>
+                    <fontStyle dynamic="true"><![CDATA[normal]]></fontStyle>
+                    <fontWeight dynamic="true"><![CDATA[normal]]></fontWeight>
+                    <fontColor dynamic="true"><![CDATA[#ffffffff]]></fontColor>
+                </Widget>
+            </widgets>
+        </Interface>
+        <Interface>
+            <id><![CDATA[33]]></id>
+            <version><![CDATA[1]]></version>
+            <name><![CDATA[6-LINK_LinksOnTop]]></name>
+            <gridWidth><![CDATA[341]]></gridWidth>
+            <gridHeight><![CDATA[192]]></gridHeight>
+            <clickSoundVolume><![CDATA[1.0]]></clickSoundVolume>
+            <widgets>
+                <Widget>
+                    <id><![CDATA[22]]></id>
+                    <version><![CDATA[1]]></version>
+                    <widgetType><![CDATA[org.korsakow.widget.MainMedia]]></widgetType>
+                    <x><![CDATA[0]]></x>
+                    <y><![CDATA[0]]></y>
+                    <width><![CDATA[1024]]></width>
+                    <height><![CDATA[576]]></height>
+                    <scalingPolicy dynamic="true"><![CDATA[fill]]></scalingPolicy>
+                </Widget>
+                <Widget>
+                    <id><![CDATA[23]]></id>
+                    <version><![CDATA[1]]></version>
+                    <widgetType><![CDATA[org.korsakow.widget.Preview]]></widgetType>
+                    <x><![CDATA[682]]></x>
+                    <y><![CDATA[384]]></y>
+                    <width><![CDATA[341]]></width>
+                    <height><![CDATA[192]]></height>
+                    <scalingPolicy dynamic="true"><![CDATA[fill]]></scalingPolicy>
+                    <previewTextMode dynamic="true"><![CDATA[always]]></previewTextMode>
+                    <index dynamic="true"><![CDATA[4]]></index>
+                    <previewOverlayColor dynamic="true"><![CDATA[#3232ff4c]]></previewOverlayColor>
+                    <textDecoration dynamic="true"><![CDATA[none]]></textDecoration>
+                    <fontStyle dynamic="true"><![CDATA[normal]]></fontStyle>
+                    <horizontalTextAlignment dynamic="true"><![CDATA[center]]></horizontalTextAlignment>
+                    <fontFamily dynamic="true"><![CDATA[Arial]]></fontFamily>
+                    <fontSize dynamic="true"><![CDATA[1.0]]></fontSize>
+                    <fontColor dynamic="true"><![CDATA[#ffffffff]]></fontColor>
+                    <fontWeight dynamic="true"><![CDATA[normal]]></fontWeight>
+                    <previewTextEffect dynamic="true"><![CDATA[none]]></previewTextEffect>
+                    <verticalTextAlignment dynamic="true"><![CDATA[middle]]></verticalTextAlignment>
+                </Widget>
+                <Widget>
+                    <id><![CDATA[24]]></id>
+                    <version><![CDATA[1]]></version>
+                    <widgetType><![CDATA[org.korsakow.widget.Preview]]></widgetType>
+                    <x><![CDATA[0]]></x>
+                    <y><![CDATA[0]]></y>
+                    <width><![CDATA[341]]></width>
+                    <height><![CDATA[192]]></height>
+                    <scalingPolicy dynamic="true"><![CDATA[fill]]></scalingPolicy>
+                    <previewTextMode dynamic="true"><![CDATA[always]]></previewTextMode>
+                    <index dynamic="true"><![CDATA[0]]></index>
+                    <previewOverlayColor dynamic="true"><![CDATA[#ff00313f]]></previewOverlayColor>
+                    <textDecoration dynamic="true"><![CDATA[none]]></textDecoration>
+                    <fontStyle dynamic="true"><![CDATA[normal]]></fontStyle>
+                    <horizontalTextAlignment dynamic="true"><![CDATA[center]]></horizontalTextAlignment>
+                    <fontFamily dynamic="true"><![CDATA[Arial]]></fontFamily>
+                    <fontSize dynamic="true"><![CDATA[1.0]]></fontSize>
+                    <fontColor dynamic="true"><![CDATA[#FFFFFFFF]]></fontColor>
+                    <fontWeight dynamic="true"><![CDATA[normal]]></fontWeight>
+                    <previewTextEffect dynamic="true"><![CDATA[animate]]></previewTextEffect>
+                    <verticalTextAlignment dynamic="true"><![CDATA[middle]]></verticalTextAlignment>
+                </Widget>
+                <Widget>
+                    <id><![CDATA[25]]></id>
+                    <version><![CDATA[1]]></version>
+                    <widgetType><![CDATA[org.korsakow.widget.Preview]]></widgetType>
+                    <x><![CDATA[341]]></x>
+                    <y><![CDATA[0]]></y>
+                    <width><![CDATA[341]]></width>
+                    <height><![CDATA[192]]></height>
+                    <scalingPolicy dynamic="true"><![CDATA[fill]]></scalingPolicy>
+                    <previewTextMode dynamic="true"><![CDATA[always]]></previewTextMode>
+                    <index dynamic="true"><![CDATA[1]]></index>
+                    <previewOverlayColor dynamic="true"><![CDATA[#ff00307f]]></previewOverlayColor>
+                    <textDecoration dynamic="true"><![CDATA[none]]></textDecoration>
+                    <fontStyle dynamic="true"><![CDATA[normal]]></fontStyle>
+                    <horizontalTextAlignment dynamic="true"><![CDATA[center]]></horizontalTextAlignment>
+                    <fontFamily dynamic="true"><![CDATA[Arial]]></fontFamily>
+                    <fontSize dynamic="true"><![CDATA[1.0]]></fontSize>
+                    <fontColor dynamic="true"><![CDATA[#FFFFFFFF]]></fontColor>
+                    <fontWeight dynamic="true"><![CDATA[normal]]></fontWeight>
+                    <previewTextEffect dynamic="true"><![CDATA[animate]]></previewTextEffect>
+                    <verticalTextAlignment dynamic="true"><![CDATA[middle]]></verticalTextAlignment>
+                </Widget>
+                <Widget>
+                    <id><![CDATA[26]]></id>
+                    <version><![CDATA[1]]></version>
+                    <widgetType><![CDATA[org.korsakow.widget.Preview]]></widgetType>
+                    <x><![CDATA[682]]></x>
+                    <y><![CDATA[0]]></y>
+                    <width><![CDATA[341]]></width>
+                    <height><![CDATA[192]]></height>
+                    <scalingPolicy dynamic="true"><![CDATA[fill]]></scalingPolicy>
+                    <previewTextMode dynamic="true"><![CDATA[always]]></previewTextMode>
+                    <index dynamic="true"><![CDATA[2]]></index>
+                    <previewOverlayColor dynamic="true"><![CDATA[#ff0030ff]]></previewOverlayColor>
+                    <textDecoration dynamic="true"><![CDATA[none]]></textDecoration>
+                    <fontStyle dynamic="true"><![CDATA[normal]]></fontStyle>
+                    <horizontalTextAlignment dynamic="true"><![CDATA[center]]></horizontalTextAlignment>
+                    <fontFamily dynamic="true"><![CDATA[Arial]]></fontFamily>
+                    <fontSize dynamic="true"><![CDATA[1.0]]></fontSize>
+                    <fontColor dynamic="true"><![CDATA[#FFFFFFFF]]></fontColor>
+                    <fontWeight dynamic="true"><![CDATA[normal]]></fontWeight>
+                    <previewTextEffect dynamic="true"><![CDATA[animate]]></previewTextEffect>
+                    <verticalTextAlignment dynamic="true"><![CDATA[middle]]></verticalTextAlignment>
+                </Widget>
+                <Widget>
+                    <id><![CDATA[27]]></id>
+                    <version><![CDATA[1]]></version>
+                    <widgetType><![CDATA[org.korsakow.widget.Scrubber]]></widgetType>
+                    <x><![CDATA[0]]></x>
+                    <y><![CDATA[552]]></y>
+                    <width><![CDATA[1024]]></width>
+                    <height><![CDATA[5]]></height>
+                    <barWidth dynamic="true"><![CDATA[5]]></barWidth>
+                    <backgroundColor dynamic="true"><![CDATA[#000000ff]]></backgroundColor>
+                    <barHeight dynamic="true"><![CDATA[5]]></barHeight>
+                    <interactive dynamic="true"><![CDATA[true]]></interactive>
+                    <foregroundColor dynamic="true"><![CDATA[#ffffffff]]></foregroundColor>
+                    <loadingColor dynamic="true"><![CDATA[#ddddddff]]></loadingColor>
+                </Widget>
+                <Widget>
+                    <id><![CDATA[28]]></id>
+                    <version><![CDATA[1]]></version>
+                    <widgetType><![CDATA[org.korsakow.widget.FullscreenButton]]></widgetType>
+                    <x><![CDATA[973]]></x>
+                    <y><![CDATA[501]]></y>
+                    <width><![CDATA[32]]></width>
+                    <height><![CDATA[32]]></height>
+                </Widget>
+                <Widget>
+                    <id><![CDATA[29]]></id>
+                    <version><![CDATA[1]]></version>
+                    <widgetType><![CDATA[org.korsakow.widget.InsertText]]></widgetType>
+                    <x><![CDATA[0]]></x>
+                    <y><![CDATA[384]]></y>
+                    <width><![CDATA[0]]></width>
+                    <height><![CDATA[80]]></height>
+                    <fontFamily dynamic="true"><![CDATA[Courier]]></fontFamily>
+                    <fontSize dynamic="true"><![CDATA[1.0]]></fontSize>
+                    <textDecoration dynamic="true"><![CDATA[none]]></textDecoration>
+                    <fontStyle dynamic="true"><![CDATA[normal]]></fontStyle>
+                    <fontWeight dynamic="true"><![CDATA[normal]]></fontWeight>
+                    <fontColor dynamic="true"><![CDATA[#ffffffff]]></fontColor>
+                </Widget>
+                <Widget>
+                    <id><![CDATA[30]]></id>
+                    <version><![CDATA[1]]></version>
+                    <widgetType><![CDATA[org.korsakow.widget.InsertText]]></widgetType>
+                    <x><![CDATA[0]]></x>
+                    <y><![CDATA[384]]></y>
+                    <width><![CDATA[0]]></width>
+                    <height><![CDATA[80]]></height>
+                    <fontFamily dynamic="true"><![CDATA[Courier]]></fontFamily>
+                    <fontSize dynamic="true"><![CDATA[1.0]]></fontSize>
+                    <textDecoration dynamic="true"><![CDATA[none]]></textDecoration>
+                    <fontStyle dynamic="true"><![CDATA[normal]]></fontStyle>
+                    <fontWeight dynamic="true"><![CDATA[normal]]></fontWeight>
+                    <fontColor dynamic="true"><![CDATA[#ffffffff]]></fontColor>
+                </Widget>
+                <Widget>
+                    <id><![CDATA[31]]></id>
+                    <version><![CDATA[1]]></version>
+                    <widgetType><![CDATA[org.korsakow.widget.InsertText]]></widgetType>
+                    <x><![CDATA[10]]></x>
+                    <y><![CDATA[384]]></y>
+                    <width><![CDATA[341]]></width>
+                    <height><![CDATA[96]]></height>
+                    <fontFamily dynamic="true"><![CDATA[Courier]]></fontFamily>
+                    <fontSize dynamic="true"><![CDATA[1.0]]></fontSize>
+                    <textDecoration dynamic="true"><![CDATA[none]]></textDecoration>
+                    <fontStyle dynamic="true"><![CDATA[normal]]></fontStyle>
+                    <fontWeight dynamic="true"><![CDATA[normal]]></fontWeight>
+                    <fontColor dynamic="true"><![CDATA[#ffffffff]]></fontColor>
+                </Widget>
+                <Widget>
+                    <id><![CDATA[32]]></id>
+                    <version><![CDATA[1]]></version>
+                    <widgetType><![CDATA[org.korsakow.widget.Preview]]></widgetType>
+                    <x><![CDATA[682]]></x>
+                    <y><![CDATA[192]]></y>
+                    <width><![CDATA[341]]></width>
+                    <height><![CDATA[192]]></height>
+                    <scalingPolicy dynamic="true"><![CDATA[fill]]></scalingPolicy>
+                    <previewTextMode dynamic="true"><![CDATA[always]]></previewTextMode>
+                    <index dynamic="true"><![CDATA[3]]></index>
+                    <previewOverlayColor dynamic="true"><![CDATA[#3232ff4c]]></previewOverlayColor>
+                    <textDecoration dynamic="true"><![CDATA[none]]></textDecoration>
+                    <fontStyle dynamic="true"><![CDATA[normal]]></fontStyle>
+                    <horizontalTextAlignment dynamic="true"><![CDATA[center]]></horizontalTextAlignment>
+                    <fontFamily dynamic="true"><![CDATA[Arial]]></fontFamily>
+                    <fontSize dynamic="true"><![CDATA[1.0]]></fontSize>
+                    <fontColor dynamic="true"><![CDATA[#ffffffff]]></fontColor>
+                    <fontWeight dynamic="true"><![CDATA[normal]]></fontWeight>
+                    <previewTextEffect dynamic="true"><![CDATA[none]]></previewTextEffect>
+                    <verticalTextAlignment dynamic="true"><![CDATA[middle]]></verticalTextAlignment>
+                </Widget>
+            </widgets>
+        </Interface>
+        <Interface>
+            <id><![CDATA[449]]></id>
+            <version><![CDATA[4]]></version>
+            <name><![CDATA[video]]></name>
+            <gridWidth><![CDATA[341]]></gridWidth>
+            <gridHeight><![CDATA[192]]></gridHeight>
+            <clickSoundVolume><![CDATA[1.0]]></clickSoundVolume>
+            <widgets>
+                <Widget>
+                    <id><![CDATA[624]]></id>
+                    <version><![CDATA[1]]></version>
+                    <widgetType><![CDATA[org.korsakow.widget.MainMedia]]></widgetType>
+                    <x><![CDATA[0]]></x>
+                    <y><![CDATA[0]]></y>
+                    <width><![CDATA[1024]]></width>
+                    <height><![CDATA[576]]></height>
+                    <scalingPolicy dynamic="true"><![CDATA[fill]]></scalingPolicy>
+                </Widget>
+                <Widget>
+                    <id><![CDATA[625]]></id>
+                    <version><![CDATA[1]]></version>
+                    <widgetType><![CDATA[org.korsakow.widget.Preview]]></widgetType>
+                    <x><![CDATA[682]]></x>
+                    <y><![CDATA[0]]></y>
+                    <width><![CDATA[341]]></width>
+                    <height><![CDATA[192]]></height>
+                    <scalingPolicy dynamic="true"><![CDATA[fill]]></scalingPolicy>
+                    <previewTextMode dynamic="true"><![CDATA[always]]></previewTextMode>
+                    <index dynamic="true"><![CDATA[0]]></index>
+                    <previewOverlayColor dynamic="true"><![CDATA[#ff00313f]]></previewOverlayColor>
+                    <textDecoration dynamic="true"><![CDATA[none]]></textDecoration>
+                    <fontStyle dynamic="true"><![CDATA[normal]]></fontStyle>
+                    <horizontalTextAlignment dynamic="true"><![CDATA[center]]></horizontalTextAlignment>
+                    <fontFamily dynamic="true"><![CDATA[Arial]]></fontFamily>
+                    <fontSize dynamic="true"><![CDATA[1.0]]></fontSize>
+                    <fontColor dynamic="true"><![CDATA[#FFFFFFFF]]></fontColor>
+                    <fontWeight dynamic="true"><![CDATA[normal]]></fontWeight>
+                    <previewTextEffect dynamic="true"><![CDATA[animate]]></previewTextEffect>
+                    <verticalTextAlignment dynamic="true"><![CDATA[middle]]></verticalTextAlignment>
+                </Widget>
+                <Widget>
+                    <id><![CDATA[626]]></id>
+                    <version><![CDATA[1]]></version>
+                    <widgetType><![CDATA[org.korsakow.widget.Preview]]></widgetType>
+                    <x><![CDATA[0]]></x>
+                    <y><![CDATA[0]]></y>
+                    <width><![CDATA[341]]></width>
+                    <height><![CDATA[192]]></height>
+                    <scalingPolicy dynamic="true"><![CDATA[fill]]></scalingPolicy>
+                    <previewTextMode dynamic="true"><![CDATA[always]]></previewTextMode>
+                    <index dynamic="true"><![CDATA[1]]></index>
+                    <previewOverlayColor dynamic="true"><![CDATA[#ff00307f]]></previewOverlayColor>
+                    <textDecoration dynamic="true"><![CDATA[none]]></textDecoration>
+                    <fontStyle dynamic="true"><![CDATA[normal]]></fontStyle>
+                    <horizontalTextAlignment dynamic="true"><![CDATA[center]]></horizontalTextAlignment>
+                    <fontFamily dynamic="true"><![CDATA[Arial]]></fontFamily>
+                    <fontSize dynamic="true"><![CDATA[1.0]]></fontSize>
+                    <fontColor dynamic="true"><![CDATA[#FFFFFFFF]]></fontColor>
+                    <fontWeight dynamic="true"><![CDATA[normal]]></fontWeight>
+                    <previewTextEffect dynamic="true"><![CDATA[animate]]></previewTextEffect>
+                    <verticalTextAlignment dynamic="true"><![CDATA[middle]]></verticalTextAlignment>
+                </Widget>
+                <Widget>
+                    <id><![CDATA[627]]></id>
+                    <version><![CDATA[1]]></version>
+                    <widgetType><![CDATA[org.korsakow.widget.Scrubber]]></widgetType>
+                    <x><![CDATA[0]]></x>
+                    <y><![CDATA[552]]></y>
+                    <width><![CDATA[1024]]></width>
+                    <height><![CDATA[5]]></height>
+                    <barWidth dynamic="true"><![CDATA[5]]></barWidth>
+                    <backgroundColor dynamic="true"><![CDATA[#000000ff]]></backgroundColor>
+                    <barHeight dynamic="true"><![CDATA[5]]></barHeight>
+                    <interactive dynamic="true"><![CDATA[true]]></interactive>
+                    <foregroundColor dynamic="true"><![CDATA[#ffffffff]]></foregroundColor>
+                    <loadingColor dynamic="true"><![CDATA[#ddddddff]]></loadingColor>
+                </Widget>
+                <Widget>
+                    <id><![CDATA[628]]></id>
+                    <version><![CDATA[1]]></version>
+                    <widgetType><![CDATA[org.korsakow.widget.FullscreenButton]]></widgetType>
+                    <x><![CDATA[973]]></x>
+                    <y><![CDATA[501]]></y>
+                    <width><![CDATA[32]]></width>
+                    <height><![CDATA[32]]></height>
+                </Widget>
+                <Widget>
+                    <id><![CDATA[629]]></id>
+                    <version><![CDATA[1]]></version>
+                    <widgetType><![CDATA[org.korsakow.widget.InsertText]]></widgetType>
+                    <x><![CDATA[0]]></x>
+                    <y><![CDATA[384]]></y>
+                    <width><![CDATA[0]]></width>
+                    <height><![CDATA[80]]></height>
+                    <fontFamily dynamic="true"><![CDATA[Courier]]></fontFamily>
+                    <fontSize dynamic="true"><![CDATA[1.0]]></fontSize>
+                    <textDecoration dynamic="true"><![CDATA[none]]></textDecoration>
+                    <fontStyle dynamic="true"><![CDATA[normal]]></fontStyle>
+                    <fontWeight dynamic="true"><![CDATA[normal]]></fontWeight>
+                    <fontColor dynamic="true"><![CDATA[#ffffffff]]></fontColor>
+                </Widget>
+                <Widget>
+                    <id><![CDATA[630]]></id>
+                    <version><![CDATA[1]]></version>
+                    <widgetType><![CDATA[org.korsakow.widget.InsertText]]></widgetType>
+                    <x><![CDATA[0]]></x>
+                    <y><![CDATA[384]]></y>
+                    <width><![CDATA[0]]></width>
+                    <height><![CDATA[80]]></height>
+                    <fontFamily dynamic="true"><![CDATA[Courier]]></fontFamily>
+                    <fontSize dynamic="true"><![CDATA[1.0]]></fontSize>
+                    <textDecoration dynamic="true"><![CDATA[none]]></textDecoration>
+                    <fontStyle dynamic="true"><![CDATA[normal]]></fontStyle>
+                    <fontWeight dynamic="true"><![CDATA[normal]]></fontWeight>
+                    <fontColor dynamic="true"><![CDATA[#ffffffff]]></fontColor>
+                </Widget>
+                <Widget>
+                    <id><![CDATA[631]]></id>
+                    <version><![CDATA[1]]></version>
+                    <widgetType><![CDATA[org.korsakow.widget.InsertText]]></widgetType>
+                    <x><![CDATA[10]]></x>
+                    <y><![CDATA[384]]></y>
+                    <width><![CDATA[341]]></width>
+                    <height><![CDATA[96]]></height>
+                    <fontFamily dynamic="true"><![CDATA[Courier]]></fontFamily>
+                    <fontSize dynamic="true"><![CDATA[1.0]]></fontSize>
+                    <textDecoration dynamic="true"><![CDATA[none]]></textDecoration>
+                    <fontStyle dynamic="true"><![CDATA[normal]]></fontStyle>
+                    <fontWeight dynamic="true"><![CDATA[normal]]></fontWeight>
+                    <fontColor dynamic="true"><![CDATA[#ffffffff]]></fontColor>
+                </Widget>
+            </widgets>
+        </Interface>
+        <Interface>
+            <id><![CDATA[498]]></id>
+            <version><![CDATA[5]]></version>
+            <name><![CDATA[bamboo]]></name>
+            <gridWidth><![CDATA[341]]></gridWidth>
+            <gridHeight><![CDATA[192]]></gridHeight>
+            <clickSoundVolume><![CDATA[1.0]]></clickSoundVolume>
+            <widgets>
+                <Widget>
+                    <id><![CDATA[607]]></id>
+                    <version><![CDATA[1]]></version>
+                    <widgetType><![CDATA[org.korsakow.widget.MainMedia]]></widgetType>
+                    <x><![CDATA[0]]></x>
+                    <y><![CDATA[0]]></y>
+                    <width><![CDATA[1024]]></width>
+                    <height><![CDATA[576]]></height>
+                    <scalingPolicy dynamic="true"><![CDATA[fill]]></scalingPolicy>
+                </Widget>
+                <Widget>
+                    <id><![CDATA[608]]></id>
+                    <version><![CDATA[1]]></version>
+                    <widgetType><![CDATA[org.korsakow.widget.Preview]]></widgetType>
+                    <x><![CDATA[654]]></x>
+                    <y><![CDATA[351]]></y>
+                    <width><![CDATA[231]]></width>
+                    <height><![CDATA[130]]></height>
+                    <scalingPolicy dynamic="true"><![CDATA[fill]]></scalingPolicy>
+                    <previewTextMode dynamic="true"><![CDATA[always]]></previewTextMode>
+                    <index dynamic="true"><![CDATA[0]]></index>
+                    <previewOverlayColor dynamic="true"><![CDATA[#ff00313f]]></previewOverlayColor>
+                    <textDecoration dynamic="true"><![CDATA[none]]></textDecoration>
+                    <fontStyle dynamic="true"><![CDATA[normal]]></fontStyle>
+                    <horizontalTextAlignment dynamic="true"><![CDATA[center]]></horizontalTextAlignment>
+                    <fontFamily dynamic="true"><![CDATA[Arial]]></fontFamily>
+                    <fontSize dynamic="true"><![CDATA[1.0]]></fontSize>
+                    <fontColor dynamic="true"><![CDATA[#FFFFFFFF]]></fontColor>
+                    <fontWeight dynamic="true"><![CDATA[normal]]></fontWeight>
+                    <previewTextEffect dynamic="true"><![CDATA[animate]]></previewTextEffect>
+                    <verticalTextAlignment dynamic="true"><![CDATA[middle]]></verticalTextAlignment>
+                </Widget>
+                <Widget>
+                    <id><![CDATA[609]]></id>
+                    <version><![CDATA[1]]></version>
+                    <widgetType><![CDATA[org.korsakow.widget.Preview]]></widgetType>
+                    <x><![CDATA[427]]></x>
+                    <y><![CDATA[238]]></y>
+                    <width><![CDATA[183]]></width>
+                    <height><![CDATA[120]]></height>
+                    <scalingPolicy dynamic="true"><![CDATA[fill]]></scalingPolicy>
+                    <previewTextMode dynamic="true"><![CDATA[always]]></previewTextMode>
+                    <index dynamic="true"><![CDATA[1]]></index>
+                    <previewOverlayColor dynamic="true"><![CDATA[#ff00307f]]></previewOverlayColor>
+                    <textDecoration dynamic="true"><![CDATA[none]]></textDecoration>
+                    <fontStyle dynamic="true"><![CDATA[normal]]></fontStyle>
+                    <horizontalTextAlignment dynamic="true"><![CDATA[center]]></horizontalTextAlignment>
+                    <fontFamily dynamic="true"><![CDATA[Arial]]></fontFamily>
+                    <fontSize dynamic="true"><![CDATA[1.0]]></fontSize>
+                    <fontColor dynamic="true"><![CDATA[#FFFFFFFF]]></fontColor>
+                    <fontWeight dynamic="true"><![CDATA[normal]]></fontWeight>
+                    <previewTextEffect dynamic="true"><![CDATA[animate]]></previewTextEffect>
+                    <verticalTextAlignment dynamic="true"><![CDATA[middle]]></verticalTextAlignment>
+                </Widget>
+                <Widget>
+                    <id><![CDATA[610]]></id>
+                    <version><![CDATA[1]]></version>
+                    <widgetType><![CDATA[org.korsakow.widget.Preview]]></widgetType>
+                    <x><![CDATA[124]]></x>
+                    <y><![CDATA[230]]></y>
+                    <width><![CDATA[112]]></width>
+                    <height><![CDATA[112]]></height>
+                    <scalingPolicy dynamic="true"><![CDATA[fill]]></scalingPolicy>
+                    <previewTextMode dynamic="true"><![CDATA[always]]></previewTextMode>
+                    <index dynamic="true"><![CDATA[2]]></index>
+                    <previewOverlayColor dynamic="true"><![CDATA[#ff0030ff]]></previewOverlayColor>
+                    <textDecoration dynamic="true"><![CDATA[none]]></textDecoration>
+                    <fontStyle dynamic="true"><![CDATA[normal]]></fontStyle>
+                    <horizontalTextAlignment dynamic="true"><![CDATA[center]]></horizontalTextAlignment>
+                    <fontFamily dynamic="true"><![CDATA[Arial]]></fontFamily>
+                    <fontSize dynamic="true"><![CDATA[1.0]]></fontSize>
+                    <fontColor dynamic="true"><![CDATA[#FFFFFFFF]]></fontColor>
+                    <fontWeight dynamic="true"><![CDATA[normal]]></fontWeight>
+                    <previewTextEffect dynamic="true"><![CDATA[animate]]></previewTextEffect>
+                    <verticalTextAlignment dynamic="true"><![CDATA[middle]]></verticalTextAlignment>
+                </Widget>
+                <Widget>
+                    <id><![CDATA[611]]></id>
+                    <version><![CDATA[1]]></version>
+                    <widgetType><![CDATA[org.korsakow.widget.Scrubber]]></widgetType>
+                    <x><![CDATA[0]]></x>
+                    <y><![CDATA[552]]></y>
+                    <width><![CDATA[1024]]></width>
+                    <height><![CDATA[5]]></height>
+                    <barWidth dynamic="true"><![CDATA[5]]></barWidth>
+                    <backgroundColor dynamic="true"><![CDATA[#000000ff]]></backgroundColor>
+                    <barHeight dynamic="true"><![CDATA[5]]></barHeight>
+                    <interactive dynamic="true"><![CDATA[true]]></interactive>
+                    <foregroundColor dynamic="true"><![CDATA[#ffffffff]]></foregroundColor>
+                    <loadingColor dynamic="true"><![CDATA[#ddddddff]]></loadingColor>
+                </Widget>
+                <Widget>
+                    <id><![CDATA[612]]></id>
+                    <version><![CDATA[1]]></version>
+                    <widgetType><![CDATA[org.korsakow.widget.FullscreenButton]]></widgetType>
+                    <x><![CDATA[973]]></x>
+                    <y><![CDATA[501]]></y>
+                    <width><![CDATA[32]]></width>
+                    <height><![CDATA[32]]></height>
+                </Widget>
+                <Widget>
+                    <id><![CDATA[613]]></id>
+                    <version><![CDATA[1]]></version>
+                    <widgetType><![CDATA[org.korsakow.widget.InsertText]]></widgetType>
+                    <x><![CDATA[0]]></x>
+                    <y><![CDATA[384]]></y>
+                    <width><![CDATA[0]]></width>
+                    <height><![CDATA[80]]></height>
+                    <fontFamily dynamic="true"><![CDATA[Courier]]></fontFamily>
+                    <fontSize dynamic="true"><![CDATA[1.0]]></fontSize>
+                    <textDecoration dynamic="true"><![CDATA[none]]></textDecoration>
+                    <fontStyle dynamic="true"><![CDATA[normal]]></fontStyle>
+                    <fontWeight dynamic="true"><![CDATA[normal]]></fontWeight>
+                    <fontColor dynamic="true"><![CDATA[#ffffffff]]></fontColor>
+                </Widget>
+                <Widget>
+                    <id><![CDATA[614]]></id>
+                    <version><![CDATA[1]]></version>
+                    <widgetType><![CDATA[org.korsakow.widget.InsertText]]></widgetType>
+                    <x><![CDATA[0]]></x>
+                    <y><![CDATA[384]]></y>
+                    <width><![CDATA[0]]></width>
+                    <height><![CDATA[80]]></height>
+                    <fontFamily dynamic="true"><![CDATA[Courier]]></fontFamily>
+                    <fontSize dynamic="true"><![CDATA[1.0]]></fontSize>
+                    <textDecoration dynamic="true"><![CDATA[none]]></textDecoration>
+                    <fontStyle dynamic="true"><![CDATA[normal]]></fontStyle>
+                    <fontWeight dynamic="true"><![CDATA[normal]]></fontWeight>
+                    <fontColor dynamic="true"><![CDATA[#ffffffff]]></fontColor>
+                </Widget>
+                <Widget>
+                    <id><![CDATA[615]]></id>
+                    <version><![CDATA[1]]></version>
+                    <widgetType><![CDATA[org.korsakow.widget.InsertText]]></widgetType>
+                    <x><![CDATA[10]]></x>
+                    <y><![CDATA[384]]></y>
+                    <width><![CDATA[341]]></width>
+                    <height><![CDATA[96]]></height>
+                    <fontFamily dynamic="true"><![CDATA[Courier]]></fontFamily>
+                    <fontSize dynamic="true"><![CDATA[1.0]]></fontSize>
+                    <textDecoration dynamic="true"><![CDATA[none]]></textDecoration>
+                    <fontStyle dynamic="true"><![CDATA[normal]]></fontStyle>
+                    <fontWeight dynamic="true"><![CDATA[normal]]></fontWeight>
+                    <fontColor dynamic="true"><![CDATA[#ffffffff]]></fontColor>
+                </Widget>
+            </widgets>
+        </Interface>
+        <Interface>
+            <id><![CDATA[508]]></id>
+            <version><![CDATA[4]]></version>
+            <name><![CDATA[concrete]]></name>
+            <gridWidth><![CDATA[341]]></gridWidth>
+            <gridHeight><![CDATA[192]]></gridHeight>
+            <clickSoundVolume><![CDATA[1.0]]></clickSoundVolume>
+            <widgets>
+                <Widget>
+                    <id><![CDATA[616]]></id>
+                    <version><![CDATA[1]]></version>
+                    <widgetType><![CDATA[org.korsakow.widget.MainMedia]]></widgetType>
+                    <x><![CDATA[0]]></x>
+                    <y><![CDATA[0]]></y>
+                    <width><![CDATA[1024]]></width>
+                    <height><![CDATA[576]]></height>
+                    <scalingPolicy dynamic="true"><![CDATA[fill]]></scalingPolicy>
+                </Widget>
+                <Widget>
+                    <id><![CDATA[617]]></id>
+                    <version><![CDATA[1]]></version>
+                    <widgetType><![CDATA[org.korsakow.widget.Preview]]></widgetType>
+                    <x><![CDATA[478]]></x>
+                    <y><![CDATA[259]]></y>
+                    <width><![CDATA[250]]></width>
+                    <height><![CDATA[180]]></height>
+                    <scalingPolicy dynamic="true"><![CDATA[fill]]></scalingPolicy>
+                    <previewTextMode dynamic="true"><![CDATA[always]]></previewTextMode>
+                    <index dynamic="true"><![CDATA[0]]></index>
+                    <previewOverlayColor dynamic="true"><![CDATA[#ff00313f]]></previewOverlayColor>
+                    <textDecoration dynamic="true"><![CDATA[none]]></textDecoration>
+                    <fontStyle dynamic="true"><![CDATA[normal]]></fontStyle>
+                    <horizontalTextAlignment dynamic="true"><![CDATA[center]]></horizontalTextAlignment>
+                    <fontFamily dynamic="true"><![CDATA[Arial]]></fontFamily>
+                    <fontSize dynamic="true"><![CDATA[1.0]]></fontSize>
+                    <fontColor dynamic="true"><![CDATA[#FFFFFFFF]]></fontColor>
+                    <fontWeight dynamic="true"><![CDATA[normal]]></fontWeight>
+                    <previewTextEffect dynamic="true"><![CDATA[animate]]></previewTextEffect>
+                    <verticalTextAlignment dynamic="true"><![CDATA[middle]]></verticalTextAlignment>
+                </Widget>
+                <Widget>
+                    <id><![CDATA[618]]></id>
+                    <version><![CDATA[1]]></version>
+                    <widgetType><![CDATA[org.korsakow.widget.Preview]]></widgetType>
+                    <x><![CDATA[92]]></x>
+                    <y><![CDATA[239]]></y>
+                    <width><![CDATA[260]]></width>
+                    <height><![CDATA[160]]></height>
+                    <scalingPolicy dynamic="true"><![CDATA[fill]]></scalingPolicy>
+                    <previewTextMode dynamic="true"><![CDATA[always]]></previewTextMode>
+                    <index dynamic="true"><![CDATA[1]]></index>
+                    <previewOverlayColor dynamic="true"><![CDATA[#ff00307f]]></previewOverlayColor>
+                    <textDecoration dynamic="true"><![CDATA[none]]></textDecoration>
+                    <fontStyle dynamic="true"><![CDATA[normal]]></fontStyle>
+                    <horizontalTextAlignment dynamic="true"><![CDATA[center]]></horizontalTextAlignment>
+                    <fontFamily dynamic="true"><![CDATA[Arial]]></fontFamily>
+                    <fontSize dynamic="true"><![CDATA[1.0]]></fontSize>
+                    <fontColor dynamic="true"><![CDATA[#FFFFFFFF]]></fontColor>
+                    <fontWeight dynamic="true"><![CDATA[normal]]></fontWeight>
+                    <previewTextEffect dynamic="true"><![CDATA[animate]]></previewTextEffect>
+                    <verticalTextAlignment dynamic="true"><![CDATA[middle]]></verticalTextAlignment>
+                </Widget>
+                <Widget>
+                    <id><![CDATA[619]]></id>
+                    <version><![CDATA[1]]></version>
+                    <widgetType><![CDATA[org.korsakow.widget.Scrubber]]></widgetType>
+                    <x><![CDATA[0]]></x>
+                    <y><![CDATA[552]]></y>
+                    <width><![CDATA[1024]]></width>
+                    <height><![CDATA[5]]></height>
+                    <barWidth dynamic="true"><![CDATA[5]]></barWidth>
+                    <backgroundColor dynamic="true"><![CDATA[#000000ff]]></backgroundColor>
+                    <barHeight dynamic="true"><![CDATA[5]]></barHeight>
+                    <interactive dynamic="true"><![CDATA[true]]></interactive>
+                    <foregroundColor dynamic="true"><![CDATA[#ffffffff]]></foregroundColor>
+                    <loadingColor dynamic="true"><![CDATA[#ddddddff]]></loadingColor>
+                </Widget>
+                <Widget>
+                    <id><![CDATA[620]]></id>
+                    <version><![CDATA[1]]></version>
+                    <widgetType><![CDATA[org.korsakow.widget.FullscreenButton]]></widgetType>
+                    <x><![CDATA[973]]></x>
+                    <y><![CDATA[501]]></y>
+                    <width><![CDATA[32]]></width>
+                    <height><![CDATA[32]]></height>
+                </Widget>
+                <Widget>
+                    <id><![CDATA[621]]></id>
+                    <version><![CDATA[1]]></version>
+                    <widgetType><![CDATA[org.korsakow.widget.InsertText]]></widgetType>
+                    <x><![CDATA[0]]></x>
+                    <y><![CDATA[384]]></y>
+                    <width><![CDATA[0]]></width>
+                    <height><![CDATA[80]]></height>
+                    <fontFamily dynamic="true"><![CDATA[Courier]]></fontFamily>
+                    <fontSize dynamic="true"><![CDATA[1.0]]></fontSize>
+                    <textDecoration dynamic="true"><![CDATA[none]]></textDecoration>
+                    <fontStyle dynamic="true"><![CDATA[normal]]></fontStyle>
+                    <fontWeight dynamic="true"><![CDATA[normal]]></fontWeight>
+                    <fontColor dynamic="true"><![CDATA[#ffffffff]]></fontColor>
+                </Widget>
+                <Widget>
+                    <id><![CDATA[622]]></id>
+                    <version><![CDATA[1]]></version>
+                    <widgetType><![CDATA[org.korsakow.widget.InsertText]]></widgetType>
+                    <x><![CDATA[0]]></x>
+                    <y><![CDATA[384]]></y>
+                    <width><![CDATA[0]]></width>
+                    <height><![CDATA[80]]></height>
+                    <fontFamily dynamic="true"><![CDATA[Courier]]></fontFamily>
+                    <fontSize dynamic="true"><![CDATA[1.0]]></fontSize>
+                    <textDecoration dynamic="true"><![CDATA[none]]></textDecoration>
+                    <fontStyle dynamic="true"><![CDATA[normal]]></fontStyle>
+                    <fontWeight dynamic="true"><![CDATA[normal]]></fontWeight>
+                    <fontColor dynamic="true"><![CDATA[#ffffffff]]></fontColor>
+                </Widget>
+                <Widget>
+                    <id><![CDATA[623]]></id>
+                    <version><![CDATA[1]]></version>
+                    <widgetType><![CDATA[org.korsakow.widget.InsertText]]></widgetType>
+                    <x><![CDATA[10]]></x>
+                    <y><![CDATA[384]]></y>
+                    <width><![CDATA[341]]></width>
+                    <height><![CDATA[96]]></height>
+                    <fontFamily dynamic="true"><![CDATA[Courier]]></fontFamily>
+                    <fontSize dynamic="true"><![CDATA[1.0]]></fontSize>
+                    <textDecoration dynamic="true"><![CDATA[none]]></textDecoration>
+                    <fontStyle dynamic="true"><![CDATA[normal]]></fontStyle>
+                    <fontWeight dynamic="true"><![CDATA[normal]]></fontWeight>
+                    <fontColor dynamic="true"><![CDATA[#ffffffff]]></fontColor>
+                </Widget>
+            </widgets>
+        </Interface>
+    </interfaces>
+    <videos>
+        <Video>
+            <id><![CDATA[148]]></id>
+            <version><![CDATA[13]]></version>
+            <name><![CDATA[Yue_demo]]></name>
+            <filename><![CDATA[/Users/Christine/parsons/MFADT THESIS/thesis 2/final outcome/Yue_demo.mp4]]></filename>
+        </Video>
+    </videos>
+    <sounds>
+        <Sound>
+            <id><![CDATA[49]]></id>
+            <version><![CDATA[5]]></version>
+            <name><![CDATA[Cicada.mp3]]></name>
+            <filename><![CDATA[/Users/Christine/parsons/MFADT THESIS/thesis 2/sfx/Cicada.mp3]]></filename>
+        </Sound>
+        <Sound>
+            <id><![CDATA[255]]></id>
+            <version><![CDATA[3]]></version>
+            <name><![CDATA[city2.m4a]]></name>
+            <filename><![CDATA[/Users/Christine/parsons/MFADT THESIS/thesis 2/sfx/city2.m4a]]></filename>
+        </Sound>
+    </sounds>
+    <images>
+        <Image>
+            <id><![CDATA[35]]></id>
+            <version><![CDATA[13]]></version>
+            <name><![CDATA[bamboo_House]]></name>
+            <filename><![CDATA[/Users/Christine/parsons/MFADT THESIS/thesis 2/final outcome/Screen Shot 2017-04-20 at 14.50.39 copy.png]]></filename>
+        </Image>
+        <Image>
+            <id><![CDATA[36]]></id>
+            <version><![CDATA[13]]></version>
+            <name><![CDATA[concrete_House]]></name>
+            <filename><![CDATA[/Users/Christine/parsons/MFADT THESIS/thesis 2/final outcome/Screen Shot 2017-04-20 at 14.51.24.png]]></filename>
+            <duration><![CDATA[5000]]></duration>
+        </Image>
+        <Image>
+            <id><![CDATA[160]]></id>
+            <version><![CDATA[15]]></version>
+            <name><![CDATA[object1]]></name>
+            <filename><![CDATA[/Users/Christine/parsons/MFADT THESIS/thesis 2/竹楼/1470809226989725.jpg]]></filename>
+        </Image>
+        <Image>
+            <id><![CDATA[180]]></id>
+            <version><![CDATA[13]]></version>
+            <name><![CDATA[object2]]></name>
+            <filename><![CDATA[/Users/Christine/parsons/MFADT THESIS/thesis 2/竹楼/竹楼内部2.JPG]]></filename>
+        </Image>
+    </images>
+    <snus>
+        <Snu>
+            <keywords>
+                <Keyword>
+                    <value><![CDATA[bamboo]]></value>
+                    <weight><![CDATA[1.0]]></weight>
+                </Keyword>
+            </keywords>
+            <rules>
+                <Rule>
+                    <id><![CDATA[564]]></id>
+                    <name><![CDATA[org.korsakow.rule.Search]]></name>
+                    <version><![CDATA[1]]></version>
+                    <type><![CDATA[org.korsakow.rule.Search]]></type>
+                    <triggerTime><![CDATA[3000]]></triggerTime>
+                    <rules>
+                        <Rule>
+                            <id><![CDATA[565]]></id>
+                            <name><![CDATA[org.korsakow.rule.ClearScores]]></name>
+                            <version><![CDATA[1]]></version>
+                            <type><![CDATA[org.korsakow.rule.ClearScores]]></type>
+                            <triggerTime><![CDATA[0]]></triggerTime>
+                        </Rule>
+                        <Rule>
+                            <id><![CDATA[566]]></id>
+                            <name><![CDATA[org.korsakow.rule.KeywordLookup]]></name>
+                            <version><![CDATA[1]]></version>
+                            <type><![CDATA[org.korsakow.rule.KeywordLookup]]></type>
+                            <triggerTime><![CDATA[0]]></triggerTime>
+                            <keywords>
+                                <Keyword>
+                                    <value><![CDATA[b_object]]></value>
+                                    <weight><![CDATA[1.0]]></weight>
+                                </Keyword>
+                            </keywords>
+                        </Rule>
+                    </rules>
+                </Rule>
+                <Rule>
+                    <id><![CDATA[567]]></id>
+                    <name><![CDATA[org.korsakow.rule.Search]]></name>
+                    <version><![CDATA[1]]></version>
+                    <type><![CDATA[org.korsakow.rule.Search]]></type>
+                    <triggerTime><![CDATA[4000]]></triggerTime>
+                    <rules>
+                        <Rule>
+                            <id><![CDATA[568]]></id>
+                            <name><![CDATA[org.korsakow.rule.KeywordLookup]]></name>
+                            <version><![CDATA[1]]></version>
+                            <type><![CDATA[org.korsakow.rule.KeywordLookup]]></type>
+                            <triggerTime><![CDATA[0]]></triggerTime>
+                            <keywords>
+                                <Keyword>
+                                    <value><![CDATA[b_object]]></value>
+                                    <weight><![CDATA[1.0]]></weight>
+                                </Keyword>
+                            </keywords>
+                        </Rule>
+                    </rules>
+                </Rule>
+            </rules>
+            <id><![CDATA[42]]></id>
+            <version><![CDATA[6]]></version>
+            <name><![CDATA[bamboo_House]]></name>
+            <mainMediaId><![CDATA[35]]></mainMediaId>
+            <rating><![CDATA[1.0]]></rating>
+            <backgroundSoundMode><![CDATA[keep]]></backgroundSoundMode>
+            <backgroundSoundVolume><![CDATA[1.0]]></backgroundSoundVolume>
+            <backgroundSoundLooping><![CDATA[false]]></backgroundSoundLooping>
+            <interfaceId><![CDATA[498]]></interfaceId>
+            <lives><![CDATA[1]]></lives>
+            <looping><![CDATA[false]]></looping>
+            <maxLinks><![CDATA[1]]></maxLinks>
+            <starter><![CDATA[false]]></starter>
+            <ender><![CDATA[false]]></ender>
+            <previewMediaId><![CDATA[35]]></previewMediaId>
+            <previewText><![CDATA[]]></previewText>
+            <insertText><![CDATA[]]></insertText>
+        </Snu>
+        <Snu>
+            <keywords>
+                <Keyword>
+                    <value><![CDATA[concrete]]></value>
+                    <weight><![CDATA[1.0]]></weight>
+                </Keyword>
+            </keywords>
+            <rules>
+                <Rule>
+                    <id><![CDATA[554]]></id>
+                    <name><![CDATA[org.korsakow.rule.Search]]></name>
+                    <version><![CDATA[1]]></version>
+                    <type><![CDATA[org.korsakow.rule.Search]]></type>
+                    <triggerTime><![CDATA[3000]]></triggerTime>
+                    <rules>
+                        <Rule>
+                            <id><![CDATA[555]]></id>
+                            <name><![CDATA[org.korsakow.rule.ClearScores]]></name>
+                            <version><![CDATA[1]]></version>
+                            <type><![CDATA[org.korsakow.rule.ClearScores]]></type>
+                            <triggerTime><![CDATA[0]]></triggerTime>
+                        </Rule>
+                        <Rule>
+                            <id><![CDATA[556]]></id>
+                            <name><![CDATA[org.korsakow.rule.KeywordLookup]]></name>
+                            <version><![CDATA[1]]></version>
+                            <type><![CDATA[org.korsakow.rule.KeywordLookup]]></type>
+                            <triggerTime><![CDATA[0]]></triggerTime>
+                            <keywords>
+                                <Keyword>
+                                    <value><![CDATA[c_object]]></value>
+                                    <weight><![CDATA[1.0]]></weight>
+                                </Keyword>
+                            </keywords>
+                        </Rule>
+                    </rules>
+                </Rule>
+                <Rule>
+                    <id><![CDATA[557]]></id>
+                    <name><![CDATA[org.korsakow.rule.Search]]></name>
+                    <version><![CDATA[1]]></version>
+                    <type><![CDATA[org.korsakow.rule.Search]]></type>
+                    <triggerTime><![CDATA[4000]]></triggerTime>
+                    <rules>
+                        <Rule>
+                            <id><![CDATA[558]]></id>
+                            <name><![CDATA[org.korsakow.rule.KeywordLookup]]></name>
+                            <version><![CDATA[1]]></version>
+                            <type><![CDATA[org.korsakow.rule.KeywordLookup]]></type>
+                            <triggerTime><![CDATA[0]]></triggerTime>
+                            <keywords>
+                                <Keyword>
+                                    <value><![CDATA[c_object]]></value>
+                                    <weight><![CDATA[1.0]]></weight>
+                                </Keyword>
+                            </keywords>
+                        </Rule>
+                    </rules>
+                </Rule>
+            </rules>
+            <id><![CDATA[48]]></id>
+            <version><![CDATA[6]]></version>
+            <name><![CDATA[concrete_House]]></name>
+            <mainMediaId><![CDATA[36]]></mainMediaId>
+            <rating><![CDATA[1.0]]></rating>
+            <backgroundSoundId><![CDATA[255]]></backgroundSoundId>
+            <backgroundSoundMode><![CDATA[set]]></backgroundSoundMode>
+            <backgroundSoundVolume><![CDATA[1.0]]></backgroundSoundVolume>
+            <backgroundSoundLooping><![CDATA[true]]></backgroundSoundLooping>
+            <interfaceId><![CDATA[508]]></interfaceId>
+            <lives><![CDATA[1]]></lives>
+            <looping><![CDATA[false]]></looping>
+            <maxLinks><![CDATA[1]]></maxLinks>
+            <starter><![CDATA[false]]></starter>
+            <ender><![CDATA[false]]></ender>
+            <previewMediaId><![CDATA[36]]></previewMediaId>
+            <previewText><![CDATA[]]></previewText>
+            <insertText><![CDATA[]]></insertText>
+        </Snu>
+        <Snu>
+            <keywords>
+                <Keyword>
+                    <value><![CDATA[video]]></value>
+                    <weight><![CDATA[1.0]]></weight>
+                </Keyword>
+            </keywords>
+            <rules>
+                <Rule>
+                    <id><![CDATA[544]]></id>
+                    <name><![CDATA[org.korsakow.rule.Search]]></name>
+                    <version><![CDATA[1]]></version>
+                    <type><![CDATA[org.korsakow.rule.Search]]></type>
+                    <triggerTime><![CDATA[5333]]></triggerTime>
+                    <rules>
+                        <Rule>
+                            <id><![CDATA[545]]></id>
+                            <name><![CDATA[org.korsakow.rule.ClearScores]]></name>
+                            <version><![CDATA[1]]></version>
+                            <type><![CDATA[org.korsakow.rule.ClearScores]]></type>
+                            <triggerTime><![CDATA[0]]></triggerTime>
+                        </Rule>
+                        <Rule>
+                            <id><![CDATA[546]]></id>
+                            <name><![CDATA[org.korsakow.rule.KeywordLookup]]></name>
+                            <version><![CDATA[1]]></version>
+                            <type><![CDATA[org.korsakow.rule.KeywordLookup]]></type>
+                            <triggerTime><![CDATA[0]]></triggerTime>
+                            <keywords>
+                                <Keyword>
+                                    <value><![CDATA[bamboo]]></value>
+                                    <weight><![CDATA[1.0]]></weight>
+                                </Keyword>
+                            </keywords>
+                        </Rule>
+                    </rules>
+                </Rule>
+                <Rule>
+                    <id><![CDATA[547]]></id>
+                    <name><![CDATA[org.korsakow.rule.Search]]></name>
+                    <version><![CDATA[1]]></version>
+                    <type><![CDATA[org.korsakow.rule.Search]]></type>
+                    <triggerTime><![CDATA[57908]]></triggerTime>
+                    <rules>
+                        <Rule>
+                            <id><![CDATA[548]]></id>
+                            <name><![CDATA[org.korsakow.rule.KeywordLookup]]></name>
+                            <version><![CDATA[1]]></version>
+                            <type><![CDATA[org.korsakow.rule.KeywordLookup]]></type>
+                            <triggerTime><![CDATA[0]]></triggerTime>
+                            <keywords>
+                                <Keyword>
+                                    <value><![CDATA[concrete]]></value>
+                                    <weight><![CDATA[1.0]]></weight>
+                                </Keyword>
+                            </keywords>
+                        </Rule>
+                    </rules>
+                </Rule>
+            </rules>
+            <id><![CDATA[154]]></id>
+            <version><![CDATA[9]]></version>
+            <name><![CDATA[Yue_demo]]></name>
+            <mainMediaId><![CDATA[148]]></mainMediaId>
+            <rating><![CDATA[1.0]]></rating>
+            <backgroundSoundMode><![CDATA[clear]]></backgroundSoundMode>
+            <backgroundSoundVolume><![CDATA[1.0]]></backgroundSoundVolume>
+            <backgroundSoundLooping><![CDATA[true]]></backgroundSoundLooping>
+            <interfaceId><![CDATA[449]]></interfaceId>
+            <lives><![CDATA[1]]></lives>
+            <looping><![CDATA[true]]></looping>
+            <maxLinks><![CDATA[1]]></maxLinks>
+            <starter><![CDATA[true]]></starter>
+            <ender><![CDATA[false]]></ender>
+            <previewMediaId><![CDATA[148]]></previewMediaId>
+            <previewText><![CDATA[]]></previewText>
+            <insertText><![CDATA[]]></insertText>
+        </Snu>
+        <Snu>
+            <keywords>
+                <Keyword>
+                    <value><![CDATA[b_object]]></value>
+                    <weight><![CDATA[1.0]]></weight>
+                </Keyword>
+            </keywords>
+            <rules>
+                <Rule>
+                    <id><![CDATA[676]]></id>
+                    <name><![CDATA[org.korsakow.rule.Search]]></name>
+                    <version><![CDATA[1]]></version>
+                    <type><![CDATA[org.korsakow.rule.Search]]></type>
+                    <triggerTime><![CDATA[3000]]></triggerTime>
+                    <rules>
+                        <Rule>
+                            <id><![CDATA[677]]></id>
+                            <name><![CDATA[org.korsakow.rule.ClearScores]]></name>
+                            <version><![CDATA[1]]></version>
+                            <type><![CDATA[org.korsakow.rule.ClearScores]]></type>
+                            <triggerTime><![CDATA[0]]></triggerTime>
+                        </Rule>
+                        <Rule>
+                            <id><![CDATA[678]]></id>
+                            <name><![CDATA[org.korsakow.rule.KeywordLookup]]></name>
+                            <version><![CDATA[1]]></version>
+                            <type><![CDATA[org.korsakow.rule.KeywordLookup]]></type>
+                            <triggerTime><![CDATA[0]]></triggerTime>
+                            <keywords>
+                                <Keyword>
+                                    <value><![CDATA[video]]></value>
+                                    <weight><![CDATA[1.0]]></weight>
+                                </Keyword>
+                            </keywords>
+                        </Rule>
+                    </rules>
+                </Rule>
+            </rules>
+            <id><![CDATA[161]]></id>
+            <version><![CDATA[9]]></version>
+            <name><![CDATA[object1]]></name>
+            <mainMediaId><![CDATA[160]]></mainMediaId>
+            <rating><![CDATA[1.0]]></rating>
+            <backgroundSoundMode><![CDATA[keep]]></backgroundSoundMode>
+            <backgroundSoundVolume><![CDATA[1.0]]></backgroundSoundVolume>
+            <backgroundSoundLooping><![CDATA[false]]></backgroundSoundLooping>
+            <interfaceId><![CDATA[21]]></interfaceId>
+            <lives><![CDATA[1]]></lives>
+            <looping><![CDATA[false]]></looping>
+            <maxLinks><![CDATA[1]]></maxLinks>
+            <starter><![CDATA[false]]></starter>
+            <ender><![CDATA[false]]></ender>
+            <previewMediaId><![CDATA[160]]></previewMediaId>
+            <previewText><![CDATA[]]></previewText>
+            <insertText><![CDATA[]]></insertText>
+        </Snu>
+        <Snu>
+            <keywords>
+                <Keyword>
+                    <value><![CDATA[b_object]]></value>
+                    <weight><![CDATA[1.0]]></weight>
+                </Keyword>
+            </keywords>
+            <rules>
+                <Rule>
+                    <id><![CDATA[670]]></id>
+                    <name><![CDATA[org.korsakow.rule.Search]]></name>
+                    <version><![CDATA[1]]></version>
+                    <type><![CDATA[org.korsakow.rule.Search]]></type>
+                    <triggerTime><![CDATA[3000]]></triggerTime>
+                    <rules>
+                        <Rule>
+                            <id><![CDATA[671]]></id>
+                            <name><![CDATA[org.korsakow.rule.ClearScores]]></name>
+                            <version><![CDATA[1]]></version>
+                            <type><![CDATA[org.korsakow.rule.ClearScores]]></type>
+                            <triggerTime><![CDATA[0]]></triggerTime>
+                        </Rule>
+                        <Rule>
+                            <id><![CDATA[672]]></id>
+                            <name><![CDATA[org.korsakow.rule.KeywordLookup]]></name>
+                            <version><![CDATA[1]]></version>
+                            <type><![CDATA[org.korsakow.rule.KeywordLookup]]></type>
+                            <triggerTime><![CDATA[0]]></triggerTime>
+                            <keywords>
+                                <Keyword>
+                                    <value><![CDATA[video]]></value>
+                                    <weight><![CDATA[1.0]]></weight>
+                                </Keyword>
+                            </keywords>
+                        </Rule>
+                    </rules>
+                </Rule>
+            </rules>
+            <id><![CDATA[181]]></id>
+            <version><![CDATA[8]]></version>
+            <name><![CDATA[object2]]></name>
+            <mainMediaId><![CDATA[180]]></mainMediaId>
+            <rating><![CDATA[1.0]]></rating>
+            <backgroundSoundMode><![CDATA[keep]]></backgroundSoundMode>
+            <backgroundSoundVolume><![CDATA[1.0]]></backgroundSoundVolume>
+            <backgroundSoundLooping><![CDATA[false]]></backgroundSoundLooping>
+            <interfaceId><![CDATA[21]]></interfaceId>
+            <lives><![CDATA[1]]></lives>
+            <looping><![CDATA[true]]></looping>
+            <maxLinks><![CDATA[1]]></maxLinks>
+            <starter><![CDATA[false]]></starter>
+            <ender><![CDATA[false]]></ender>
+            <previewMediaId><![CDATA[180]]></previewMediaId>
+            <previewText><![CDATA[]]></previewText>
+            <insertText><![CDATA[]]></insertText>
+        </Snu>
+    </snus>
+    <patterns/>
+    <texts/>
+    <resources>
+        <Folder name="/">
+            <Folder name="Interface Examples">
+                <Resource class="org.korsakow.resource.Interface"
+                    id="449" name="video"/>
+                <Resource class="org.korsakow.resource.Interface"
+                    id="498" name="bamboo"/>
+                <Resource class="org.korsakow.resource.Interface"
+                    id="508" name="concrete"/>
+                <Resource class="org.korsakow.resource.Interface"
+                    id="11" name="3-LINK_LinksOnTop"/>
+                <Resource class="org.korsakow.resource.Interface"
+                    id="21" name="3-LINK_LinksSeperate"/>
+                <Resource class="org.korsakow.resource.Interface"
+                    id="33" name="6-LINK_LinksOnTop"/>
+            </Folder>
+            <Folder name="audios">
+                <Resource class="org.korsakow.resource.Sound" id="49" name="Cicada.mp3"/>
+                <Resource class="org.korsakow.resource.Sound" id="255" name="city2.m4a"/>
+            </Folder>
+            <Folder name="images">
+                <Resource class="org.korsakow.resource.Snu" id="154" name="Yue_demo"/>
+                <Resource class="org.korsakow.resource.Snu" id="48" name="concrete_House"/>
+                <Resource class="org.korsakow.resource.Snu" id="42" name="bamboo_House"/>
+                <Resource class="org.korsakow.resource.Snu" id="161" name="object1"/>
+                <Resource class="org.korsakow.resource.Snu" id="181" name="object2"/>
+            </Folder>
+        </Folder>
+    </resources>
+</korsakow>
