@@ -1,0 +1,7 @@
+this["org"] = this["org"] || {};
+this["org"]["korsakow"] = this["org"]["korsakow"] || {};
+this["org"]["korsakow"]["templates"] = this["org"]["korsakow"]["templates"] || {};
+
+this["org"]["korsakow"]["templates"]["share"] = Handlebars.template({"compiler":[7,">= 4.0.0"],"main":function(container,depth0,helpers,partials,data) {
+    return "<div class='embed'>\n    <div class='background'></div>\n    <div class='dialog'>\n        <div class='button close'>&#x2716;</div>\n        <div class='content'>\n            <div class='p'>\n                <div class='label'>Share this film</div>\n                <div class='info'>Use this link to share the entire film.</div>\n                <input class='shareFilm' />\n            </div>\n            <div class='p'>\n                <div class='label'>Share this SNU</div>\n                <div class='info'>This link will start the film at the current SNU.</div>\n                <input class='shareSNU' />\n            </div>\n            <div class='p'>\n                <div class='label'>Embed code</div>\n                <div class='info'>Paste this code into your website or blog to embed this SNU.</div>\n                <textarea class='embedCode' cols='32' rows='6'></textarea>\n            </div>\n        </div>\n    </div>\n</div>\n";
+},"useData":true});
