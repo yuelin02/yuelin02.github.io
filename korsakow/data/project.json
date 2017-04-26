@@ -1250,7 +1250,7 @@
             }],
             "name": "screenashota2017a04a20aata14.51.24.jpg",
             "className": "Image",
-            "id": 739
+            "id": 768
         },
         {
             "filename": "thumbnail/1470809226989725.jpg",
@@ -1261,7 +1261,7 @@
             }],
             "name": "1470809226989725.jpg",
             "className": "Image",
-            "id": 740
+            "id": 769
         },
         {
             "filename": "thumbnail/aaaa2.jpg",
@@ -1272,7 +1272,7 @@
             }],
             "name": "aaaa2.jpg",
             "className": "Image",
-            "id": 741
+            "id": 770
         },
         {
             "filename": "thumbnail/screenashota2017a04a20aata14.50.39acopy.jpg",
@@ -1283,7 +1283,7 @@
             }],
             "name": "screenashota2017a04a20aata14.50.39acopy.jpg",
             "className": "Image",
-            "id": 742
+            "id": 771
         },
         {
             "filename": "thumbnail/yue_demo.jpg",
@@ -1294,7 +1294,7 @@
             }],
             "name": "yue_demo.jpg",
             "className": "Image",
-            "id": 743
+            "id": 772
         }
     ],
     "texts": [],
@@ -1348,7 +1348,7 @@
             "backgroundSoundMode": "set",
             "maxLinks": 1,
             "name": "concrete_House",
-            "thumbnailId": 739,
+            "thumbnailId": 768,
             "backgroundSoundVolume": 1,
             "id": 48,
             "interfaceId": 508,
@@ -1357,12 +1357,12 @@
                 {
                     "Trigger": {
                         "className": "Trigger",
-                        "id": 745,
+                        "id": 774,
                         "time": 3000,
                         "type": "org.korsakow.trigger.SnuTime"
                     },
                     "className": "Event",
-                    "id": 744,
+                    "id": 773,
                     "Rule": {
                         "keepLinks": false,
                         "keywords": [],
@@ -1384,19 +1384,19 @@
                     "Predicate": {
                         "predicates": [],
                         "className": "Predicate",
-                        "id": 746,
+                        "id": 775,
                         "type": "org.korsakow.predicate.True"
                     }
                 },
                 {
                     "Trigger": {
                         "className": "Trigger",
-                        "id": 748,
+                        "id": 777,
                         "time": 4000,
                         "type": "org.korsakow.trigger.SnuTime"
                     },
                     "className": "Event",
-                    "id": 747,
+                    "id": 776,
                     "Rule": {
                         "keepLinks": true,
                         "keywords": [],
@@ -1418,7 +1418,7 @@
                     "Predicate": {
                         "predicates": [],
                         "className": "Predicate",
-                        "id": 749,
+                        "id": 778,
                         "type": "org.korsakow.predicate.True"
                     }
                 }
@@ -1450,19 +1450,19 @@
             "backgroundSoundMode": "keep",
             "maxLinks": 1,
             "name": "object1",
-            "thumbnailId": 740,
+            "thumbnailId": 769,
             "id": 161,
             "interfaceId": 690,
             "previewText": "",
             "events": [{
                 "Trigger": {
                     "className": "Trigger",
-                    "id": 751,
+                    "id": 780,
                     "time": 3000,
                     "type": "org.korsakow.trigger.SnuTime"
                 },
                 "className": "Event",
-                "id": 750,
+                "id": 779,
                 "Rule": {
                     "keepLinks": false,
                     "keywords": [],
@@ -1484,7 +1484,7 @@
                 "Predicate": {
                     "predicates": [],
                     "className": "Predicate",
-                    "id": 752,
+                    "id": 781,
                     "type": "org.korsakow.predicate.True"
                 }
             }]
@@ -1515,19 +1515,19 @@
             "backgroundSoundMode": "keep",
             "maxLinks": 1,
             "name": "object2",
-            "thumbnailId": 741,
+            "thumbnailId": 770,
             "id": 181,
             "interfaceId": 690,
             "previewText": "",
             "events": [{
                 "Trigger": {
                     "className": "Trigger",
-                    "id": 754,
+                    "id": 783,
                     "time": 3000,
                     "type": "org.korsakow.trigger.SnuTime"
                 },
                 "className": "Event",
-                "id": 753,
+                "id": 782,
                 "Rule": {
                     "keepLinks": false,
                     "keywords": [],
@@ -1549,7 +1549,7 @@
                 "Predicate": {
                     "predicates": [],
                     "className": "Predicate",
-                    "id": 755,
+                    "id": 784,
                     "type": "org.korsakow.predicate.True"
                 }
             }]
@@ -1580,7 +1580,7 @@
             "backgroundSoundMode": "keep",
             "maxLinks": 1,
             "name": "bamboo_House",
-            "thumbnailId": 742,
+            "thumbnailId": 771,
             "id": 42,
             "interfaceId": 498,
             "previewText": "",
@@ -1588,12 +1588,12 @@
                 {
                     "Trigger": {
                         "className": "Trigger",
-                        "id": 757,
+                        "id": 786,
                         "time": 3000,
                         "type": "org.korsakow.trigger.SnuTime"
                     },
                     "className": "Event",
-                    "id": 756,
+                    "id": 785,
                     "Rule": {
                         "keepLinks": false,
                         "keywords": [],
@@ -1615,19 +1615,19 @@
                     "Predicate": {
                         "predicates": [],
                         "className": "Predicate",
-                        "id": 758,
+                        "id": 787,
                         "type": "org.korsakow.predicate.True"
                     }
                 },
                 {
                     "Trigger": {
                         "className": "Trigger",
-                        "id": 760,
+                        "id": 789,
                         "time": 4000,
                         "type": "org.korsakow.trigger.SnuTime"
                     },
                     "className": "Event",
-                    "id": 759,
+                    "id": 788,
                     "Rule": {
                         "keepLinks": true,
                         "keywords": [],
@@ -1649,7 +1649,7 @@
                     "Predicate": {
                         "predicates": [],
                         "className": "Predicate",
-                        "id": 761,
+                        "id": 790,
                         "type": "org.korsakow.predicate.True"
                     }
                 }
@@ -1681,7 +1681,7 @@
             "backgroundSoundMode": "clear",
             "maxLinks": 1,
             "name": "Yue_demo",
-            "thumbnailId": 743,
+            "thumbnailId": 772,
             "id": 154,
             "interfaceId": 449,
             "previewText": "",
@@ -1689,12 +1689,12 @@
                 {
                     "Trigger": {
                         "className": "Trigger",
-                        "id": 763,
+                        "id": 792,
                         "time": 5333,
                         "type": "org.korsakow.trigger.SnuTime"
                     },
                     "className": "Event",
-                    "id": 762,
+                    "id": 791,
                     "Rule": {
                         "keepLinks": false,
                         "keywords": [],
@@ -1716,19 +1716,19 @@
                     "Predicate": {
                         "predicates": [],
                         "className": "Predicate",
-                        "id": 764,
+                        "id": 793,
                         "type": "org.korsakow.predicate.True"
                     }
                 },
                 {
                     "Trigger": {
                         "className": "Trigger",
-                        "id": 766,
+                        "id": 795,
                         "time": 57908,
                         "type": "org.korsakow.trigger.SnuTime"
                     },
                     "className": "Event",
-                    "id": 765,
+                    "id": 794,
                     "Rule": {
                         "keepLinks": true,
                         "keywords": [],
@@ -1750,7 +1750,7 @@
                     "Predicate": {
                         "predicates": [],
                         "className": "Predicate",
-                        "id": 767,
+                        "id": 796,
                         "type": "org.korsakow.predicate.True"
                     }
                 }

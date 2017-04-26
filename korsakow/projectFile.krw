@@ -21,7 +21,7 @@
     <settings>
         <Settings>
             <id><![CDATA[1]]></id>
-            <version><![CDATA[2]]></version>
+            <version><![CDATA[3]]></version>
             <exportWebFiles dynamic="true"><![CDATA[true]]></exportWebFiles>
             <adjustFilenamesOnSave dynamic="true"><![CDATA[smart]]></adjustFilenamesOnSave>
             <putSimilarResourcesAtTop dynamic="true"><![CDATA[true]]></putSimilarResourcesAtTop>
@@ -30,7 +30,7 @@
             <exportSounds dynamic="true"><![CDATA[true]]></exportSounds>
             <exportSubtitles dynamic="true"><![CDATA[true]]></exportSubtitles>
             <exportVideos dynamic="true"><![CDATA[true]]></exportVideos>
-            <exportDirectory dynamic="true"><![CDATA[/Users/Christine/Desktop/index.html]]></exportDirectory>
+            <exportDirectory dynamic="true"><![CDATA[/Users/Christine/parsons/yuelin02.github.io/korsakow/index.html]]></exportDirectory>
         </Settings>
     </settings>
     <interfaces>
@@ -964,11 +964,122 @@
                 </Widget>
             </widgets>
         </Interface>
+        <Interface>
+            <id><![CDATA[690]]></id>
+            <version><![CDATA[3]]></version>
+            <name><![CDATA[end]]></name>
+            <gridWidth><![CDATA[341]]></gridWidth>
+            <gridHeight><![CDATA[192]]></gridHeight>
+            <clickSoundVolume><![CDATA[1.0]]></clickSoundVolume>
+            <widgets>
+                <Widget>
+                    <id><![CDATA[691]]></id>
+                    <version><![CDATA[2]]></version>
+                    <widgetType><![CDATA[org.korsakow.widget.MainMedia]]></widgetType>
+                    <x><![CDATA[0]]></x>
+                    <y><![CDATA[0]]></y>
+                    <width><![CDATA[1024]]></width>
+                    <height><![CDATA[576]]></height>
+                    <scalingPolicy dynamic="true"><![CDATA[fill]]></scalingPolicy>
+                </Widget>
+                <Widget>
+                    <id><![CDATA[692]]></id>
+                    <version><![CDATA[2]]></version>
+                    <widgetType><![CDATA[org.korsakow.widget.Preview]]></widgetType>
+                    <x><![CDATA[243]]></x>
+                    <y><![CDATA[133]]></y>
+                    <width><![CDATA[592]]></width>
+                    <height><![CDATA[332]]></height>
+                    <scalingPolicy dynamic="true"><![CDATA[fill]]></scalingPolicy>
+                    <previewTextMode dynamic="true"><![CDATA[always]]></previewTextMode>
+                    <index dynamic="true"><![CDATA[0]]></index>
+                    <previewOverlayColor dynamic="true"><![CDATA[#ff00313f]]></previewOverlayColor>
+                    <textDecoration dynamic="true"><![CDATA[none]]></textDecoration>
+                    <fontStyle dynamic="true"><![CDATA[normal]]></fontStyle>
+                    <horizontalTextAlignment dynamic="true"><![CDATA[center]]></horizontalTextAlignment>
+                    <fontFamily dynamic="true"><![CDATA[Arial]]></fontFamily>
+                    <fontSize dynamic="true"><![CDATA[1.0]]></fontSize>
+                    <fontColor dynamic="true"><![CDATA[#FFFFFFFF]]></fontColor>
+                    <fontWeight dynamic="true"><![CDATA[normal]]></fontWeight>
+                    <previewTextEffect dynamic="true"><![CDATA[animate]]></previewTextEffect>
+                    <verticalTextAlignment dynamic="true"><![CDATA[middle]]></verticalTextAlignment>
+                </Widget>
+                <Widget>
+                    <id><![CDATA[693]]></id>
+                    <version><![CDATA[2]]></version>
+                    <widgetType><![CDATA[org.korsakow.widget.Scrubber]]></widgetType>
+                    <x><![CDATA[0]]></x>
+                    <y><![CDATA[552]]></y>
+                    <width><![CDATA[1024]]></width>
+                    <height><![CDATA[5]]></height>
+                    <barWidth dynamic="true"><![CDATA[5]]></barWidth>
+                    <backgroundColor dynamic="true"><![CDATA[#000000ff]]></backgroundColor>
+                    <barHeight dynamic="true"><![CDATA[5]]></barHeight>
+                    <interactive dynamic="true"><![CDATA[true]]></interactive>
+                    <foregroundColor dynamic="true"><![CDATA[#ffffffff]]></foregroundColor>
+                    <loadingColor dynamic="true"><![CDATA[#ddddddff]]></loadingColor>
+                </Widget>
+                <Widget>
+                    <id><![CDATA[694]]></id>
+                    <version><![CDATA[2]]></version>
+                    <widgetType><![CDATA[org.korsakow.widget.FullscreenButton]]></widgetType>
+                    <x><![CDATA[973]]></x>
+                    <y><![CDATA[501]]></y>
+                    <width><![CDATA[32]]></width>
+                    <height><![CDATA[32]]></height>
+                </Widget>
+                <Widget>
+                    <id><![CDATA[695]]></id>
+                    <version><![CDATA[2]]></version>
+                    <widgetType><![CDATA[org.korsakow.widget.InsertText]]></widgetType>
+                    <x><![CDATA[0]]></x>
+                    <y><![CDATA[384]]></y>
+                    <width><![CDATA[0]]></width>
+                    <height><![CDATA[80]]></height>
+                    <fontFamily dynamic="true"><![CDATA[Courier]]></fontFamily>
+                    <fontSize dynamic="true"><![CDATA[1.0]]></fontSize>
+                    <textDecoration dynamic="true"><![CDATA[none]]></textDecoration>
+                    <fontStyle dynamic="true"><![CDATA[normal]]></fontStyle>
+                    <fontWeight dynamic="true"><![CDATA[normal]]></fontWeight>
+                    <fontColor dynamic="true"><![CDATA[#ffffffff]]></fontColor>
+                </Widget>
+                <Widget>
+                    <id><![CDATA[696]]></id>
+                    <version><![CDATA[2]]></version>
+                    <widgetType><![CDATA[org.korsakow.widget.InsertText]]></widgetType>
+                    <x><![CDATA[0]]></x>
+                    <y><![CDATA[384]]></y>
+                    <width><![CDATA[0]]></width>
+                    <height><![CDATA[80]]></height>
+                    <fontFamily dynamic="true"><![CDATA[Courier]]></fontFamily>
+                    <fontSize dynamic="true"><![CDATA[1.0]]></fontSize>
+                    <textDecoration dynamic="true"><![CDATA[none]]></textDecoration>
+                    <fontStyle dynamic="true"><![CDATA[normal]]></fontStyle>
+                    <fontWeight dynamic="true"><![CDATA[normal]]></fontWeight>
+                    <fontColor dynamic="true"><![CDATA[#ffffffff]]></fontColor>
+                </Widget>
+                <Widget>
+                    <id><![CDATA[697]]></id>
+                    <version><![CDATA[2]]></version>
+                    <widgetType><![CDATA[org.korsakow.widget.InsertText]]></widgetType>
+                    <x><![CDATA[10]]></x>
+                    <y><![CDATA[384]]></y>
+                    <width><![CDATA[341]]></width>
+                    <height><![CDATA[96]]></height>
+                    <fontFamily dynamic="true"><![CDATA[Courier]]></fontFamily>
+                    <fontSize dynamic="true"><![CDATA[1.0]]></fontSize>
+                    <textDecoration dynamic="true"><![CDATA[none]]></textDecoration>
+                    <fontStyle dynamic="true"><![CDATA[normal]]></fontStyle>
+                    <fontWeight dynamic="true"><![CDATA[normal]]></fontWeight>
+                    <fontColor dynamic="true"><![CDATA[#ffffffff]]></fontColor>
+                </Widget>
+            </widgets>
+        </Interface>
     </interfaces>
     <videos>
         <Video>
             <id><![CDATA[148]]></id>
-            <version><![CDATA[13]]></version>
+            <version><![CDATA[14]]></version>
             <name><![CDATA[Yue_demo]]></name>
             <filename><![CDATA[/Users/Christine/parsons/MFADT THESIS/thesis 2/final outcome/Yue_demo.mp4]]></filename>
         </Video>
@@ -976,13 +1087,13 @@
     <sounds>
         <Sound>
             <id><![CDATA[49]]></id>
-            <version><![CDATA[5]]></version>
+            <version><![CDATA[6]]></version>
             <name><![CDATA[Cicada.mp3]]></name>
             <filename><![CDATA[/Users/Christine/parsons/MFADT THESIS/thesis 2/sfx/Cicada.mp3]]></filename>
         </Sound>
         <Sound>
             <id><![CDATA[255]]></id>
-            <version><![CDATA[3]]></version>
+            <version><![CDATA[4]]></version>
             <name><![CDATA[city2.m4a]]></name>
             <filename><![CDATA[/Users/Christine/parsons/MFADT THESIS/thesis 2/sfx/city2.m4a]]></filename>
         </Sound>
@@ -990,26 +1101,26 @@
     <images>
         <Image>
             <id><![CDATA[35]]></id>
-            <version><![CDATA[13]]></version>
+            <version><![CDATA[14]]></version>
             <name><![CDATA[bamboo_House]]></name>
             <filename><![CDATA[/Users/Christine/parsons/MFADT THESIS/thesis 2/final outcome/Screen Shot 2017-04-20 at 14.50.39 copy.png]]></filename>
         </Image>
         <Image>
             <id><![CDATA[36]]></id>
-            <version><![CDATA[13]]></version>
+            <version><![CDATA[14]]></version>
             <name><![CDATA[concrete_House]]></name>
             <filename><![CDATA[/Users/Christine/parsons/MFADT THESIS/thesis 2/final outcome/Screen Shot 2017-04-20 at 14.51.24.png]]></filename>
             <duration><![CDATA[5000]]></duration>
         </Image>
         <Image>
             <id><![CDATA[160]]></id>
-            <version><![CDATA[15]]></version>
+            <version><![CDATA[17]]></version>
             <name><![CDATA[object1]]></name>
             <filename><![CDATA[/Users/Christine/parsons/MFADT THESIS/thesis 2/竹楼/1470809226989725.jpg]]></filename>
         </Image>
         <Image>
             <id><![CDATA[180]]></id>
-            <version><![CDATA[13]]></version>
+            <version><![CDATA[15]]></version>
             <name><![CDATA[object2]]></name>
             <filename><![CDATA[/Users/Christine/parsons/MFADT THESIS/thesis 2/竹楼/竹楼内部2.JPG]]></filename>
         </Image>
@@ -1259,21 +1370,21 @@
             </keywords>
             <rules>
                 <Rule>
-                    <id><![CDATA[676]]></id>
+                    <id><![CDATA[701]]></id>
                     <name><![CDATA[org.korsakow.rule.Search]]></name>
                     <version><![CDATA[1]]></version>
                     <type><![CDATA[org.korsakow.rule.Search]]></type>
                     <triggerTime><![CDATA[3000]]></triggerTime>
                     <rules>
                         <Rule>
-                            <id><![CDATA[677]]></id>
+                            <id><![CDATA[702]]></id>
                             <name><![CDATA[org.korsakow.rule.ClearScores]]></name>
                             <version><![CDATA[1]]></version>
                             <type><![CDATA[org.korsakow.rule.ClearScores]]></type>
                             <triggerTime><![CDATA[0]]></triggerTime>
                         </Rule>
                         <Rule>
-                            <id><![CDATA[678]]></id>
+                            <id><![CDATA[703]]></id>
                             <name><![CDATA[org.korsakow.rule.KeywordLookup]]></name>
                             <version><![CDATA[1]]></version>
                             <type><![CDATA[org.korsakow.rule.KeywordLookup]]></type>
@@ -1289,14 +1400,14 @@
                 </Rule>
             </rules>
             <id><![CDATA[161]]></id>
-            <version><![CDATA[9]]></version>
+            <version><![CDATA[10]]></version>
             <name><![CDATA[object1]]></name>
             <mainMediaId><![CDATA[160]]></mainMediaId>
             <rating><![CDATA[1.0]]></rating>
             <backgroundSoundMode><![CDATA[keep]]></backgroundSoundMode>
             <backgroundSoundVolume><![CDATA[1.0]]></backgroundSoundVolume>
             <backgroundSoundLooping><![CDATA[false]]></backgroundSoundLooping>
-            <interfaceId><![CDATA[21]]></interfaceId>
+            <interfaceId><![CDATA[690]]></interfaceId>
             <lives><![CDATA[1]]></lives>
             <looping><![CDATA[false]]></looping>
             <maxLinks><![CDATA[1]]></maxLinks>
@@ -1315,21 +1426,21 @@
             </keywords>
             <rules>
                 <Rule>
-                    <id><![CDATA[670]]></id>
+                    <id><![CDATA[707]]></id>
                     <name><![CDATA[org.korsakow.rule.Search]]></name>
                     <version><![CDATA[1]]></version>
                     <type><![CDATA[org.korsakow.rule.Search]]></type>
                     <triggerTime><![CDATA[3000]]></triggerTime>
                     <rules>
                         <Rule>
-                            <id><![CDATA[671]]></id>
+                            <id><![CDATA[708]]></id>
                             <name><![CDATA[org.korsakow.rule.ClearScores]]></name>
                             <version><![CDATA[1]]></version>
                             <type><![CDATA[org.korsakow.rule.ClearScores]]></type>
                             <triggerTime><![CDATA[0]]></triggerTime>
                         </Rule>
                         <Rule>
-                            <id><![CDATA[672]]></id>
+                            <id><![CDATA[709]]></id>
                             <name><![CDATA[org.korsakow.rule.KeywordLookup]]></name>
                             <version><![CDATA[1]]></version>
                             <type><![CDATA[org.korsakow.rule.KeywordLookup]]></type>
@@ -1345,14 +1456,14 @@
                 </Rule>
             </rules>
             <id><![CDATA[181]]></id>
-            <version><![CDATA[8]]></version>
+            <version><![CDATA[9]]></version>
             <name><![CDATA[object2]]></name>
             <mainMediaId><![CDATA[180]]></mainMediaId>
             <rating><![CDATA[1.0]]></rating>
             <backgroundSoundMode><![CDATA[keep]]></backgroundSoundMode>
             <backgroundSoundVolume><![CDATA[1.0]]></backgroundSoundVolume>
             <backgroundSoundLooping><![CDATA[false]]></backgroundSoundLooping>
-            <interfaceId><![CDATA[21]]></interfaceId>
+            <interfaceId><![CDATA[690]]></interfaceId>
             <lives><![CDATA[1]]></lives>
             <looping><![CDATA[true]]></looping>
             <maxLinks><![CDATA[1]]></maxLinks>
@@ -1378,6 +1489,8 @@
                     id="11" name="3-LINK_LinksOnTop"/>
                 <Resource class="org.korsakow.resource.Interface"
                     id="21" name="3-LINK_LinksSeperate"/>
+                <Resource class="org.korsakow.resource.Interface"
+                    id="690" name="end"/>
                 <Resource class="org.korsakow.resource.Interface"
                     id="33" name="6-LINK_LinksOnTop"/>
             </Folder>
