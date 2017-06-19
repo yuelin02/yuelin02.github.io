@@ -52,7 +52,7 @@
       void main() {
          vec2 st = gl_FragCoord.xy/u_resolution;
          vec2 mouse = gl_FragCoord.xy/u_mouse;
-         gl_FragColor = vec4(st.x,st.y*0.8*abs(sin(u_time*0.2)),1.0,1.0);
+         gl_FragColor = vec4(st.x,st.y*0.8*abs(sin(u_time)*0.2),1.0,1.0);
       }
    </script>
 
