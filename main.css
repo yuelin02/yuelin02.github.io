@@ -1,0 +1,48 @@
+body {
+  background: #ffed6f;
+  line-height: 1;
+  font-family: 'Open Sans', sans-serif;
+}
+
+#main{
+   margin:48px 64px;
+}
+
+.intro a {
+   font-size: 24px;
+
+   text-decoration: underline;
+   line-height: 36px;
+   //margin: 18px 0;
+   color: black;
+}
+
+.content-wrap a {
+   font-size: 32px;
+   text-decoration: none;
+   line-height: 36px;
+   margin: 18px 0;
+   color: black;
+}
+
+
+h1 {
+  font-size: 32px;
+  line-height: 48px;
+  margin: 18px 0;
+}
+
+h2 {
+  font-size: 24px;
+  line-height: 52px;
+  margin: 6px 0;
+}
+
+h3 {
+  font-size: 20px;
+  line-height: 36px;
+}
+
+p {
+  line-height: 24px;
+}
