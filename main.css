@@ -13,19 +13,18 @@ body {
 
 .intro a {
    font-size: 24px;
-
    text-decoration: underline;
    line-height: 36px;
    //margin: 18px 0;
-   color: black;
+   color: white;
 }
 
 .content-wrap a {
    font-size: 32px;
-   text-decoration: none;
+   text-decoration: underline;
    line-height: 36px;
    margin: 18px 0;
-   color: black;
+   color: white;
 }
 
 
