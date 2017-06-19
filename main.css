@@ -1,14 +1,14 @@
 body {
    margin: 0;
    overflow: hidden;
-  /*background: #ffed6f;*/
-  line-height: 1;
-  font-family: 'Open Sans', sans-serif;
+   background: #000000;
+   line-height: 1;
+   font-family: 'Open Sans', sans-serif;
 }
 
 #main{
    margin:48px 64px;
-   position:absolute;
+   position: absolute;
 }
 
 .intro a {
