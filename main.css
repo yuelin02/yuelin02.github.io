@@ -1,7 +1,7 @@
 body {
    margin: 0;
    overflow: hidden;
-   //background: #000000;
+   /*background: #000000;*/
    line-height: 1;
    font-family: 'Open Sans', sans-serif;
 }
@@ -15,7 +15,7 @@ body {
    font-size: 24px;
    text-decoration: underline;
    line-height: 36px;
-   //margin: 18px 0;
+   /*margin: 18px 0;*/
    color: white;
 }
 
@@ -32,19 +32,23 @@ h1 {
   font-size: 32px;
   line-height: 48px;
   margin: 18px 0;
+  color: white;
 }
 
 h2 {
   font-size: 24px;
   line-height: 52px;
   margin: 6px 0;
+  color: white;
 }
 
 h3 {
   font-size: 20px;
   line-height: 36px;
+  color: white;
 }
 
 p {
   line-height: 24px;
+  color: white;
 }
